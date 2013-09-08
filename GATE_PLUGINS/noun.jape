@@ -30,7 +30,7 @@ Rule: pattern1
 	)
 
 -->
-:pw1.pwmention = {pwmention = "true", specific = "true", method = "rules", submethod="rule1"}
+:pw1.rbmention = {pwmention = "true", specific = "true", method = "rules", submethod="rule1"}
 
 
 Rule: pattern2
@@ -62,5 +62,5 @@ Rule: pattern2
 	):pw1
 
 -->
-:pw1.pwmention = {pwmention = "true", specific = "true", method = "rules", submethod="rule2"}
+:pw1.rbmention = {pwmention = "true", specific = "true", method = "rules", submethod="rule2"}
 
