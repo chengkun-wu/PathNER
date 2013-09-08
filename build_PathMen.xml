@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project PathNER with Jar-in-Jar Loader">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <target name="create_run_jar">
+        <jar destfile="D:/Dropbox/PhD/Year 2/codes/PathNER/PathNer.jar">
+            <manifest>
+                <attribute name="Main-Class" value="org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"/>
+                <attribute name="Rsrc-Main-Class" value="uk.ac.man.PathNER.PathNER"/>
+                <attribute name="Class-Path" value="."/>
+                <attribute name="Rsrc-Class-Path" value="./ gate.jar secondstring-20120620.jar commons-collections-3.2.1.jar commons-io-2.1.jar commons-lang3-3.1.jar dragontool.jar heptag.jar junit-4.4.jar mallet.jar medpost.jar ant-launcher.jar ant.jar aopalliance.jar apache-mime4j-core.jar apache-mime4j-dom.jar bcmail-jdk15.jar bcprov-jdk15.jar commons-codec.jar commons-compress.jar commons-io.jar commons-lang.jar commons-logging.jar dom4j.jar flying-saucer-core.jar fontbox.jar gate-asm.jar gate-compiler-jdt.jar ivy.jar java-getopt.jar jaxen.jar jdom.jar jempbox.jar junit.jar log4j.jar lucene-core.jar metadata-extractor.jar nekohtml.jar pdfbox.jar poi-ooxml-schemas.jar poi-ooxml.jar poi-scratchpad.jar poi.jar spring-aop.jar spring-beans.jar spring-core.jar stax2-api.jar tika-core.jar tika-parsers.jar woodstox-core-lgpl.jar xercesImpl.jar xmlbeans.jar xmlunit.jar xpp3.jar xstream.jar"/>
+            </manifest>
+            <zipfileset src="jar-in-jar-loader.zip"/>
+            <fileset dir="D:/Dropbox/PhD/Year 2/codes/PathNER/bin"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib" includes="gate.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib" includes="secondstring-20120620.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\Apache Commons\Collections" includes="commons-collections-3.2.1.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\Apache Commons\IO" includes="commons-io-2.1.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\Apache Commons\Lang" includes="commons-lang3-3.1.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\BANNER" includes="dragontool.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\BANNER" includes="heptag.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\BANNER" includes="junit-4.4.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\BANNER" includes="mallet.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\BANNER" includes="medpost.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="ant-launcher.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="ant.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="aopalliance.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="apache-mime4j-core.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="apache-mime4j-dom.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="bcmail-jdk15.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="bcprov-jdk15.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="commons-codec.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="commons-compress.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="commons-io.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="commons-lang.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="commons-logging.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="dom4j.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="flying-saucer-core.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="fontbox.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="gate-asm.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="gate-compiler-jdt.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="ivy.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="java-getopt.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="jaxen.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="jdom.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="jempbox.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="junit.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="log4j.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="lucene-core.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="metadata-extractor.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="nekohtml.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="pdfbox.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="poi-ooxml-schemas.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="poi-ooxml.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="poi-scratchpad.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="poi.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="spring-aop.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="spring-beans.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="spring-core.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="stax2-api.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="tika-core.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="tika-parsers.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="woodstox-core-lgpl.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="xercesImpl.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="xmlbeans.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="xmlunit.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="xpp3.jar"/>
+            <zipfileset dir="D:\Dropbox\PhD\Year 2\codes\PathNER\lib\GATE_lib" includes="xstream.jar"/>
+        </jar>
+    </target>
+</project>

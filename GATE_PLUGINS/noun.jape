@@ -1,0 +1,66 @@
+Phase: Pathway
+Input: Token 
+Options: control = first
+
+Rule: pattern1
+(
+	{Token.category ==~ "PDT|IN|TO|V.(.)?|.|W.(.)?|R.(.)?"}
+	|
+	{Token.string ==~ "(?i)in|by|on|of|through|via|at|a(n)?|this|that|these|those|such|each|every|certain|another|the|any"}
+	|
+	{Token.string =~ "(?i)inhibit|enhance|regulate|mediate|activate"}
+)
+	(
+		(
+			({Token.category !=~ "PDT|IN|TO|V.(.)?|.|W.(.)?|R.(.)?", Token.string !=~ "(?i)in|by|on|of|through|via|at|a(n)?|this|that|these|those|such|each|every|certain|another|the|any"})[1,10]
+			(
+				(
+					{Token.string ==~ "(?i)signal(l)?ing"}
+				)
+				|
+				(
+					({Token.string ==~ "(?i)signal(l)?(ing)?|signal transduction"})?
+					{Token.string ==~ "(?i)pathway(s)?|cascade(s)?|network(s)?|transduction(s)?"}
+				)
+			)
+		)
+	):pw1
+	(
+		{!Token.string ==~ "(?i)pathway(s)?|cascade(s)?|network(s)?|transduction(s)?|signal(l)?ing"}
+	)
+
+-->
+:pw1.pwmention = {pwmention = "true", specific = "true", method = "rules", submethod="rule1"}
+
+
+Rule: pattern2
+(
+	{Token.category ==~ "PDT|IN|TO|V.(.)?|.|W.(.)?|R.(.)?"}
+	|
+	{Token.string ==~ "(?i)in|by|on|of|through|via|at|a(n)?|this|that|these|those|such|each|every|certain|another|the|any"}
+)
+
+	(
+		(
+			({Token.category !=~ "PDT|IN|TO|V.(.)?|.|W.(.)?|R.(.)?", Token.string !=~ "(?i)in|by|on|of|through|via|at|a(n)?|this|that|these|those|such|each|every|certain|another|the|any"})[0,5]
+			(
+				(
+					(
+						{Token.string ==~ "(?i)signal(l)?ing"}
+					)
+					|
+					(
+						({Token.string ==~ "(?i)signal(l)?(ing)?|signal transduction"})?
+						{Token.string ==~ "(?i)pathway(s)?|cascade(s)?|network(s)?|transduction(s)?"}
+					)
+				)
+				{Token.string ==~ "(?i)induced|mediated|regulated|activated|associated|coupled|triggered|based|initiated"}
+				{Token.string ==~ "(?i)by|in|of|through|on|at|via"}
+				({!Token.category ==~ "."})[1,5]
+			)
+		)
+	):pw1
+
+-->
+:pw1.pwmention = {pwmention = "true", specific = "true", method = "rules", submethod="rule2"}
+

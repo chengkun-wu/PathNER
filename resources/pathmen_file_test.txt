@@ -1,0 +1,684 @@
+7641692:Delineation of the CD28 signaling cascade was found to involve protein tyrosine kinase activity, followed by the activation of phospholipase A2 and 5-lipoxygenase.
+7641692:These findings should be useful for therapeutic strategies and the development of immunosuppressants targeting the CD28 costimulatory pathway .
+7542591:The results identify functionally distinct epitopes on the CD4 coreceptor involved in activation of the Ras/protein kinase C and calcium pathways .
+7719937:Several recent studies have implicated Jak kinases in the signaling pathway induced by IL-2.
+7643015:These data indicate that IL-2 and IL-12 may have distinct signaling pathways leading to the induction of IFN-gamma and GM-CSF gene expression, and that the NK3.3 cell line may serve as a novel model for dissecting the biochemical and molecular events involved in these pathways.
+7623828:A functional T-cell receptor signaling pathway is required for p95vav activity.
+7623828:The role of p95vav in TCR-mediated signaling processes is unclear.
+7623828:In contrast, NFAT activation by a G-protein-coupled receptor is not modulated by p95vav overexpression, suggesting that the effect is specific to the TCR signaling pathways .
+7623828:To further dissect p95vav involvement in TCR signaling , we analyzed various Jurkat mutants deficient in TCR signaling function or TCR expression and showed that an intact TCR signaling pathway is required for p95vav to function.
+7623828:Taken together, our data suggest that p95vav plays an important role at an yet unidentified proximal position in the TCR signaling cascade .
+7744799:These results indicate that Epo acts at both transcriptional and posttranscriptional levels on the TAL1 locus in Friend virus-induced erythroblasts and establish a link between Epo signaling mechanisms and a member of a family of transcription factors involved in the differentiation of diverse cell lineages.
+7604283:Constitutively activated Jak-STAT pathway in T cells transformed with HTLV-I.
+7604283:In HTLV-I-infected cord blood lymphocytes, the transition from IL-2-dependent to IL-2-independent growth correlated with the acquisition of a constitutively activated Jak-STAT pathway , which suggests that this pathway participates in HTLV-I-mediated T cell transformation.
+7613138:The interleukin-5/receptor interaction activates Lyn and Jak2 tyrosine kinases and propagates signals via the Ras-Raf-1-MAP kinase and the Jak-STAT pathways in eosinophils.
+7638186:These data, and the recent demonstration of JAK phosphorylation by IL-12, identify a rapid signal-transduction pathway likely to mediate IL-12-induced gene expression.
+7541794:Activation of cytoplasmic tyrosine kinases is an important aspect of signal transduction mediated by integrins.
+7541794:These observations indicate that the Syk tyrosine kinase may be an important component of an integrin signaling pathway in monocytic cells, leading to activation of NF-kappa B and to increased levels of cytokine messages.
+7769834:Taken together, these findings suggest that PWM is able to initiate an intracytoplasmic signalling cascade and EGR-1 induction in normal human B cells.
+7706710:WIN 53071 inhibited IL-2 production induced in the calcium-dependent PMA and ionomycin pathway .
+8522361:Synergy between signal transduction pathways is obligatory for expression of c-fos in B and T cell lines: implication for c-fos control via surface immunoglobulin and T cell antigen receptors.
+8522361:Expression of the protooncogene c-fos is controlled by three main regulatory pathways involving kinase C, cAMP, and calcium.
+7759875:Yet these same cells do initiate early TCR-mediated signaling events , such as generation of inositol phosphates and increased intracellular calcium.
+7759875:The generation of second messengers in T cells normally leads to downstream signaling that results in transcriptional activation of the IL-2 gene.
+7540942:Thus, CD30-CD30L interactions mediate the induction of HIV expression by a kappa B-dependent pathway that is independent of TNF.
+7706235:Furthermore, we demonstrate that p21ras is essential for NO-induced downstream signaling , such as NF-kappa B activation, and that endogenous NO can activate p21ras in the same cell.
+7636179:However, TGF-beta 1 did not induce dephosphorylation of pRb in EBV (or LMP-1)-positive cells as opposed to EBV-negative cells, suggesting a dichotomy in the TGF-beta 1 signaling pathway leading to separable gene regulatory and growth inhibitory responses.
+7739562:Coupling of a signal response domain in I kappa B alpha to multiple pathways for NF-kappa B activation.
+7739562:Alanine substitutions introduced at two serine residues positioned within this N-terminal regulatory region of I kappa B alpha also yielded constitutive repressors that escaped from Tax-induced turnover and that potently inhibited immune activation pathways for NF-kappa B induction, including those initiated from antigen and cytokine receptors.
+7730364:Moreover, the data comparing the effects of activated Ras and PKC mutants suggest that PKC-alpha, p21ras, and PKC-epsilon are not positioned linearly on a single signal transduction pathway .
+7888666: Interleukin-5 signaling in human eosinophils involves JAK2 tyrosine kinase and Stat1 alpha.
+7888666:Human eosinophils are one of the most important target cells for IL-5 and were used here to study IL-5 signaling in a primary human cell.
+7888666:These data show for the first time that molecular mechanisms of IL-5 signaling in human eosinophils involve members of the JAK kinase family as well as members of the Stat family.
+7602114:The activation of the Jak-STAT 1 signaling pathway by IL-5 in eosinophils.
+7602114:The objective of this study was to investigate the involvement of the newly discovered Jak-STAT pathway in the IL-5 signal transduction mechanism .
+7602114:Thus, we demonstrated that IL-5 activated the Jak 2-STAT 1 signaling pathway in eosinophils.
+7602114:We speculate that the Jak 2-STAT 1 pathway may be involved in the activation of IL-5-inducible genes in eosinophils.
+7884865:The mechanisms by which LMP-1 upregulates these proteins is unknown, but it is plausible that LMP-1 modifies signal transduction pathways that result in the activation of one or more transcription factors that ultimately regulate transcription of oncogenic genes.
+7923175:Recent data suggest that the poor induction of a T-cell response to human renal cell carcinoma (RCC) may be related to alterations in signal transduction pathways .
+7720085:These data suggest that ALD cause transient but significant changes in T cell transmembrane signaling , although some events induced by stimulation with anti-CD3 antibodies are not induced by ALD.
+7526398:Separation of oxidant-initiated and redox-regulated steps in the NF-kappa B signal transduction pathway .
+7526398:Studies presented here show that overall NF-kappa B signal transduction begins with a parallel series of stimuli-specific pathways through which cytokines (tumor necrosis factor alpha), oxidants (hydrogen peroxide and mitomycin C), and phorbol ester (phorbol 12-myristate 13-acetate) individually initiate signaling.
+7526398:Since internal sites of oxidant production have been shown to play a key role in the cytokine-stimulated activation of NF-kappa B, and since tyrosine kinase and phosphatase activities are known to be altered by oxidants, these findings suggest that intracellular redox status controls NF-kappa B activation by regulating tyrosine phosphorylation event(s) within the common step of the NF-kappa B signal transduction pathway .
+7622191:In toto, these results suggest that TG induces IL-2R alpha in human T cells through a PKC-independent pathway .
+7836389:Altogether these data indicate that, in 7TD1 cells, IL-6 controls junB transcription in a biphasic fashion by means of two separate transduction pathways .
+7989745:Our knowledge of the intracellular signaling pathways coupled to this receptor is incomplete.
+7869038:We have used mutants of these kinases and phosphatases (gamma B*CaM-K and delta CaM-AI, respectively) to explore their relative role in cytokine gene transcription and their interactions with PKC-dependent signaling systems .
+7525701:The activation is rapid and is mediated through a tyrosine kinase-dependent pathway .
+7525701:Our results define the NF-kappa B system as an intermediate event in CD40 signaling and suggest that the CD40 pathway can influence the expression of B cell-associated genes with NF-kappa B consensus sites.
+8012110:Murine B lymphocytes, adipocytes, and olfactory neurons contain a DNA-binding protein that participates in the regulation of genes encoding tissue-specific components of signal transduction .
+8015553:Activation of the dPRL promoter construct in these undifferentiated cells could however be induced by the addition of cAMP, in the absence of progesterone, suggesting that a signal transduced through the cAMP signaling pathway is a primary inducer of decidual PRL gene expression.
+8157958:Moreover, its rapid activation suggests it may have a wider role within signal transduction cascades in lymphocytes.
+8051172:ZAP-70 tyrosine kinase, CD45, and T cell receptor involvement in UV- and H2O2- induced T cell signal transduction .
+8051172:These results suggest that UV -induced signal transduction is mediated via cell surface receptors that normally respond to biological stimulation, whereas H2O2 is able to partially bypass this requirement.
+8196620:TF is the primary cellular initiator of the coagulation protease cascades .
+8151786:To define the mechanism of action of the Nef protein, the signal transduction pathways which may be affected in T cells by constitutive expression of the nef gene were examined.
+8151786:Because the Nef protein does not affect the surface expression of the CD3-TCR complex, we conclude that the Nef protein down-regulates the transcriptional factors NF-kappa B and AP-1 in T cells in vitro through an effect on the TCR-dependent signal transduction pathway .
+7911088:Sensitivity against various enzyme inhibitors suggests that components of the signal transduction pathway are shared by all three cytokines.
+7512079:To analyze the signal transduction mechanisms induced by RA, we first compared the effects of PMA and RA on the expression of genes which are known to be regulated during monocytic differentiation.
+7522304: Calcium signalling in T cells stimulated by a cyclophilin B-binding protein.
+7522304:When bound to cyclophilin, cyclosporin A binds and inactivates the key signalling intermediate calcineurin.
+7522304:To identify potential cellular homologues of cyclosporin A that might regulate calcium signalling , we have cloned human genes encoding cyclophilin B-binding-proteins using the yeast two-hybrid system.
+7522304:CAML appears to be a new participant in the calcium-signal transduction pathway , implicating cyclophilin B in calcium signalling , even in the absence of cyclosporin.
+7511050: Retroviral vector-mediated transduction of RA receptor (RAR alpha) into this HL-60R subclone completely restored the sensitivity of these cells to ATRA in terms of their ability to express CD38.
+8207643:To characterize mechanisms responsible for these LIF effects, levels of HIV mRNA, activation of the DNA binding protein nuclear factor (NF)-kB, signal transduction pathways , and potential interactions with other cytokines were analyzed.
+7510691:The interleukin-8 AP-1 and kappa B-like sites are genetic end targets of FK506-sensitive pathway accompanied by calcium mobilization.
+8077662:Induction of IL-8 expression in T cells uses the CD28 costimulatory pathway .
+7524519: MHC class II signaling in B-cell activation [see comments]
+7524519:In this review, Paul Scholl and Raif Geha discuss recent advances in our understanding of mechanisms of MHC class II signaling and analyse their role in human B-cell activation.
+7945272:These observations suggest that v-abl may be inhibiting the differentiation of B cells by blocking these two crucial elements in the maturation pathway .
+7520093:Our data also suggest that whilst NF-kappa B may be an essential component of LMP1 signal transduction , other cell-specific factors may be required to effect some functions of the viral protein.
+8144878:The implications for T cell receptor signaling and HIV-1 gene expression are considered.
+7520914:Recently, investigators have hypothesized that CD14-mediated signaling is effected through a receptor-associated tyrosine kinase (TK), suggesting a multicomponent receptor model of LPS signaling .
+7520914:These results imply that TK activity is not obligatory for CD14-mediated signal transduction to occur in response to LPS.
+7917514:Role of HIV-1 Nef expression in activation pathways in CD4+ T cells.
+7917514:The role of the human immunodeficiency virus (HIV-1) Nef protein in T cell activation pathways was investigated using a Jurkat CD4+ cell line stably transfected with a Nef expression vector.
+8108127:Overproduction of NFKB2 (lyt-10) and c-Rel: a mechanism for HTLV-I Tax-mediated trans-activation via the NF-kappa B signalling pathway .
+8108127:We propose that NFKB2 synthesis and processing allows continuous nuclear expression of an otherwise cytoplasmic protein and, in conjunction with overexpression of c-Rel, NFKB2 alters the NF-kappa B signalling pathway and contributes to leukemic transformation of T cells by HTLV-I.
+8298127:In FCS- liquid-suspension culture supplemented with saturating Ep level and low-dose IL-3/GM-CSF, adult HPC undergo unilineage erythropoietic differentiation: Here again, treatment with high-dose RA induces a shift from the erythroid to granulocytic differentiation pathway .
+8298127:These results indicate that RA directly inhibits the erythroid differentiation program at the level of early adult HPC, and may lead to a shift from the erythroid to granulocytic differentiation pathway .
+8916959:PML appears to be transcriptionally regulated by class I and II interferons, which raises the possibility that interferons modulate the function and growth and differentiation potential of normal myeloid cells and precursors by activating PML-dependent pathways .
+8950029:The effects of Ara-C on JNK activity may be mediated through secondary response pathways .
+8892903:The transmembrane domains are well conserved, but there is striking sequence divergence of the carboxy-terminal cytoplasmic domain essential for B-cell immortalization and interaction with the tumor necrosis factor receptor signaling pathway .
+8892903:The conserved TRAF3 binding sites in LMP1 and the CD30 Hodgkin's disease marker provides further evidence that a TRAF3-mediated signal transduction pathway may be important in malignant transformation.
+8307982:Experiments using inhibitors of protein kinase C, protein kinase A, and tyrosine kinase-dependent pathways revealed that G(Anh)MTetra-induced IL-1 beta and IL-6 mRNA expression involves activation of an H7-inhibitable pathway .
+8307982:Furthermore, maximal G(Anh)MTetra-induced IL-1 beta and IL-6 mRNA expression could be enhanced by co-stimulation with LPS or MDP, suggesting that different receptors and/or transduction pathways were involved.
+8283032:Previous studies have suggested that gangliosides have an important role in cell signaling and recognition.
+9022666:It is thus generally believed that the pancreatic endocrine-lineage possesses the ability to mature along a differentiation pathway that shares many characteristics with those of neuronal differentiation.
+8910360:Characterization of a CD43/leukosialin-mediated pathway for inducing apoptosis in human T-lymphoblastoid cells.
+8910360:Since peripheral blood T-lymphocytes express cryptic epitopes for mAb J393, these findings demonstrate the existence of a tightly regulated CD43-mediated pathway for inducing apoptosis in human T-cell lineages.
+8947512:Based upon these results we propose that alpha-interferon through its receptor initiates phosphatidic acid dependent signalling which in turn regulates the affinity of 47 kDa sterol regulatory element binding factor as well as LDL-receptor gene transcription in lymphocytes from CML patients.
+8970984:A 40-fold stimulation of chloramphenicol acetyltransferase activity mediated by four tandem repeats of the SNE could be induced within 2 h (and up to 250-fold within 6 h) after addition of TPA in DNA-transfected U-937 cells, indicating that the stimulation appeared likely to be a true protein kinase C-mediated signal transduction event rather than a differentiation response.
+8892614: Apoptosis signaling pathways in normal T cells: differential activity of Bcl-2 and IL-1beta-converting enzyme family protease inhibitors on glucocorticoid- and Fas-mediated cytotoxicity.
+8892614:These results suggest that peripheral T cells use distinct apoptosis signaling pathways with differential sensitivity to Bcl-2 and interleukin-1beta-converting enzyme family protease inhibitors.
+8011280:Among these properties are NF-kappa B's rapid posttranslational activation in response to many pathogenic signals, its direct participation in cytoplasmic/nuclear signaling , and its potency to activate transcription of a great variety of genes encoding immunologically relevant proteins.
+8943389:We show that triggering of CD40 signaling pathway (s) by CD40 ligands expressed on L cells led to strong activation of an NF-kappaB-controlled beta-globin reporter gene in primary B lymphocytes from transgenic mice.
+8943389:These results indicate that stimulation of CD40 signaling pathways exerts a long-lasting stimulatory effect on both the transcription and nuclear translocation of RelB.
+8892610:These results demonstrate that CD40, like sIg, may employ PKC in producing select outcomes, that individual B cell receptors may signal downstream events via both PKC-dependent and PKC-independent pathways, and that multiple signal transduction pathways may be used to activate the expression of closely related genes.
+8943365:The constitutive association of TRAFs with LMP1 through the aa 187 to 231 domain which is important in NF-kappaB activation and primary B-lymphocyte growth transformation implicates TRAF aggregation in LMP1 signaling .
+8906805:Lack of IL-12 signaling in human allergen-specific Th2 cells.
+8906805:The IL-12 nonresponsiveness of the Th2 clones was further evident by the total lack of IL-12-induced phosphorylation of STAT4 (signal transducer and activator of transcription-4), a transcription factor that is typically involved in IL-12 signaling .
+8191547:A second messenger cascade involved is the inositol-1,4,5-trisphosphate/calcium pathway which responds over the same rapid time course.
+8986719:Signaling via IL-2 and IL-4 in JAK3-deficient severe combined immunodeficiency lymphocytes: JAK3-dependent and independent pathways .
+8875942:Tumor necrosis factor receptor-1 (TNFR-1) and CD95 (also called Fas or APO-1) are cytokine receptors that engage the apoptosis pathway through a region of intracellular homology, designated the "death domain." Another death domain-containing member of the TNFR family, death receptor 3 (DR3), was identified and was shown to induce both apoptosis and activation of nuclear factor kappaB.
+8875942: DR3 signal transduction is mediated by a complex of intracellular signaling molecules including TRADD, TRAF2, FADD, and FLICE.
+8106512:These data suggest that interferon regulatory factor 1 not only triggers the activation of the interferon signal transduction pathway , but also may play a role in limiting the duration of this response by activating the transcription of IRF-2.
+8890196: CD14-mediated signal pathway of Porphyromonas gingivalis lipopolysaccharide in human gingival fibroblasts.
+8887687:p21(ras), a guanine nucleotide binding factor, mediates T-cell signal transduction through PKC-dependent and PKC-independent pathways.
+8887687:A later result of inhibition of this activation pathway by p21(ras) was down-regulation of the activity of the transcription factor AP-1 and subsequent coordinate reductions in IL-2 gene expression and protein production.
+8955094:Mutation of tyrosines 492/493 in the kinase domain of ZAP-70 affects multiple T-cell receptor signaling pathways .
+8955094:The protein-tyrosine kinase ZAP-70 is implicated, together with the Src kinase p56(lck), in controlling the early steps of the T-cell antigen receptor (TCR) signaling cascade .
+8108414:These findings thus reveal the presence of a second inducible autoregulated inhibitory pathway that helps ensure the rapid but transient action of nuclear NF-kappa B.
+8910398:Recent work has shown that IL-10 induces activation of the JAK-STAT signaling pathway .
+8702466:These results suggest that, while lipopolysaccharide-induced expression of inflammatory mediators requires tyrosine kinase activity, tyrosine kinase activity is not obligatory for lipopolysaccharide signal transduction .
+8764027:Chronic human immunodeficiency virus type 1 infection of myeloid cells disrupts the autoregulatory control of the NF-kappaB/Rel pathway via enhanced IkappaBalpha degradation.
+8700228:The close homology of the basic region/leucine zipper (bZIP) DNA-binding and dimerization domain of HLF to that of the CES-2 cell-death specification protein of Caenorhabditis elegans suggests a model of leukaemogenesis in which E2A-HLF blocks an early step within an evolutionarily conserved cell-death pathway .
+8977934:The multiple alterations observed on the various biochemical pathways may appear as a consequence of a unique deleterious mechanism more fundamentally related to the process of senescence such as the inability to cope with oxidative stress.
+8816467:The presence of an active CRE site in the bcl-2 promoter implies that the regulation of bcl-2 expression is linked to a signal transduction pathway in B cells.
+8877725:The IFN-gamma mRNA is induced/inhibited in these cell types by a wide variety of extracellular signals, thus implicating a number of diverse, yet convergent signal transduction pathways in its transcriptional control.
+8695800:p38 and p63 may provide a docking site for Grb2, thereby linking Grb2 SH3-binding proteins SOS1, SLP-76, and p120 to downstream signalling events .
+8874184:Studies on unicellular and paired daughter cell culture unequivocally indicate that the shift is mediated by modulation of the HPC differentiation program to the granulopoietic pathway (rather than RA-induced down-modulation of multipotent /erythroid/monocytic HPC growth coupled with recruitment of granulocytic HPCs).
+8794888:In this report, we demonstrate that the corresponding mutations in murine calcineurin render the T cell receptor signal transduction cascade CsA resistant in human Jurkat T cells.
+8816436:The human tumor necrosis factor alpha (TNF-alpha) gene is one of the earliest genes transcribed after the stimulation of a B cell through its antigen receptor or via the CD-40 pathway .
+8757326:However, the reduced expression of these proteins was not the result of a global TCR/CD3-signaling defect because CD3 cross-linking induced an equivalent increase in intracellular-free calcium ions, as well as NFATp dephosphorylation, translocation to the nucleus, and DNA binding in both normal and anergic T cells.
+8871623:A major obstacle in understanding the signaling events that follow CD28 receptor ligation arises from the fact that CD28 acts as a costimulus to TCR engagement, making it difficult to assess the relative contribution of CD28 signals as distinct from those of the TCR.
+8871623:Using selective inhibitors, we investigated the signaling pathways involved in the CD28-mediated induction of AP-1 and NF-kappaB.
+8871623:These data suggest that in activated normal T cells, CD28-derived signals can stimulate proliferation at least in part via NF-kappaB and AP-1 generation, and that this response uses both acidic sphingomyelinase and phosphatidylinositol 3-kinase-linked pathways .
+8759733:Inhibition of T lymphocyte activation by cAMP is associated with down-regulation of two parallel mitogen-activated protein kinase pathways , the extracellular signal-related kinase and c-Jun N-terminal kinase.
+8759733:The induction of T cell proliferation requires signals from the TCR and a co-receptor molecule, such as CD28, that activate parallel and partially cross-reactive signaling pathways .
+8759733:To further analyze potential cross points between positively and negatively regulating signaling pathways in T cells, we tested the effects of activators of the adenylate cyclase or PKA on two parallel mitogen-activated protein kinase signaling pathways mediated by extracellular signal-regulated kinase (ERK) and c-Jun N-terminal kinase.
+8759733:Our results suggest that PKA inhibits T cell activation by interfering with multiple events along the two signaling pathways operating downstream of the TCR and the CD28 co-receptor molecules.
+8709637: Interleukin-7 signaling in human B cell precursor acute lymphoblastic leukemia cells and murine BAF3 cells involves activation of STAT1 and STAT5 mediated via the interleukin-7 receptor alpha chain.
+8709637:Activation of the JAK/STAT pathway has been implicated in IL-7R signaling .
+8709637:IL-7 also induced STAT/DNA binding in BCP-ALL cases that failed to proliferate in response to IL-7, suggesting that the ability of IL-7R to activate the JAK/STAT pathway per se is not sufficient for proliferation induction.
+8709637:The data further indicate that the IL-7R alpha chains are directly involved in the activation of JAKs and STATs and have a major role in proliferative signaling in precursor B cells.
+8691123: CaMKIV/ Gr signaling is associated with transcriptional activation of c-fos but is independent of p21ras or calcineurin.
+8790367:Thus, select genetic aberrations in the apoptotic pathway reveal a cell autonomous coregulation of activation.
+8759721:Inhibition of transcription factor Stat1 activity in mononuclear cell cultures and T cells by the cyclic AMP signaling pathway .
+8759721:Stimulation of the cAMP signal transduction pathway , which skews cytokine production toward a Th2 pattern, resulted in the preferential suppression of Stat1 activity.
+8759721:Our results demonstrate the regulation of STAT activity by a signaling pathway that regulates the T cell functional phenotype and is distinct from the cytokine-activated Janus kinase-STAT signaling pathway .
+8898948:These observations establish the importance of different signal transducing pathways leading to CD40 activation of B lymphocytes.
+8751937:The combined data lend additional support to the proposal that spirochetal lipoproteins and LPS initiate monocyte activation via different cell surface events but that the signaling pathways ultimately converge to produce qualitatively similar cellular responses.
+8843413:GR expression levels were shown to be rate-limiting for initiating the apoptotic pathway , and a positive correlation between steroid sensitivity and GR-mediated induction of an integrated mouse mammary tumor virus (MMTV) LTR reporter gene was observed.
+8670897:Multiple p21ras effector pathways regulate nuclear factor of activated T cells.
+8670897:The transcription factor, Nuclear Factor of Activated T cells (NFAT) is a major target for p21ras and calcium signalling pathways in the IL-2 gene and is induced by p21ras signals acting in synergy with calcium/calcineurin signals.
+8670897:Expression of dominant negative N17Rac also prevents TCR and p21ras activation of NFAT, but without interfering with the ERK-2 pathway .
+8670897:Thus, p21ras regulation of NFAT in T cells requires the activity of multiple effector pathways including those regulated by MAPKK-1/ERK-2 and Rac-1.
+8683106:Differential utilization of Janus kinase-signal transducer activator of transcription signaling pathways in the stimulation of human natural killer cells by IL-2, IL-12, and IFN-alpha.
+8864127:The discovery of these signaling pathways has led to important new insights into their role in lymphocyte maturation, as it has emerged that mutations in the genes encoding both gamma c and JAK3 result in similar forms of severe combined immunodeficiency (SCID).
+8864127:In this review we examine the structure and function of cytokine receptors and the signaling pathways involved in their regulation of gene expression.
+8877104:Yet, little is known as to how the RA and VitD3 receptor network operates in hematopoietic cells, and whether receptor interactions can explain the interplay between the RA -and VitD3 -signaling pathways during differentiation.
+8877104:Therefore, we analyzed the expression, DNA binding, and transcriptional activity of the endogenous RA and VitD3 receptors [retinoic acid receptors (RARs), retinoid X receptors (RXRs), and VitD3 receptor (VDR)] in the U-937 cell line, in which RA and VitD3 induce distinct monocytic differentiation pathways .
+8877104:These results demonstrate a complex role for VitD3 in modifying the retinoid differentiation pathway and may have implications for differentiation-inducing therapy of hematopoietic tumors.
+8695838:Granulocyte-macrophage colony-stimulating factor (GM-CSF) induces immediate effects in monocytes by activation of the Janus kinase (JAK2) and STAT transcription factor (STAT5) pathway .
+8620546:Thus, these results show that age-related impairments in the activation of AP-1 and NF-AT are closely associated with decreased expression of IL-2 and further suggest that aberrancies in the signaling pathways important for the induction of transcriptionally active c-Fos/c-Jun AP-1 may contribute to the impaired activation of NF-AT.
+8609418:Our data suggest that IL-13 utilizes IL-4R and its signaling pathway , and JAK2 may play an important role in the function of IL-4R and IL-13R in colon cancer cells.
+8631809:Activation of nuclear factor of activated T cells in a cyclosporin A-resistant pathway .
+8631809:We demonstrate here, however, that NFAT can be activated, and significant levels of IL-2 can be produced by the CsA-resistant CD28-signaling pathway .
+8605941:The activation of T cells requires engagement of the T cell receptor/CD3 complex and co-stimulatory molecules, and results in the triggering of several signaling pathways which lead rapidly to the nuclear translocation of several transcription factors, such as nuclear factor (NF)-kappa B and NF-AT.
+8605941:Appearance of the STAT1 factor is significantly reduced in the presence of cyclosporin A, and blocked by cycloheximide, indicating that its activation is dependent upon a protein(s) synthesized in response to initial signaling events .
+8557975:We conclude that the MAP kinase signal transduction pathway consisting of Raf-1, MEK1, and ERK1 and ERK2 functions in the stimulation IL-2 gene transcription in activated T lymphocytes.
+8609393:To gain further knowledge of the IL-12R complex and the IL-12 signal transduction pathway in cytotoxic T cells, we studied a number of human T cell lines that had been transformed to permanent growth with Herpesvirus saimiri, an oncogenic virus of nonhuman primates.
+8609393:Using these T cells as a model of IL-12 signal transduction , we confirmed that these events involve members of the Janus kinase family of nonreceptor tyrosine kinases JAK2, TYK2, and signal transducer and activator of transcription 4.
+8639461:In part, this may be due to altered intercellular signalling systems and intracellular signal transduction .
+8628295:The relevance of these molecular events to BCR signal transduction and antigen-stimulated B-cell-mediated immune responses is discussed.
+8605359:A mutant Tax protein deficient in transactivation of genes by the nuclear factor (NF)-kappaB pathway was unable to induce transcriptional activity of IL-1alpha promoter-CAT constructs, but was rescued by exogenous provision of p65/p50 NF-kappaB.
+8605359:These data suggest a general role for Tax induction of IL-1alpha gene transcription by the NF-kappaB pathway .
+8631962:Granulocyte-macrophage colony-stimulating factor stimulates JAK2 signaling pathway and rapidly activates p93fes, STAT1 p91, and STAT3 p92 in polymorphonuclear leukocytes.
+8631962:These results identify a new signal transduction pathway activated by GM-CSF and provide a mechanism for rapid activation of gene expression in GM-CSF-stimulated PMN.
+8634418:The RAR-RXR as well as the RXR-RXR pathway is involved in signaling growth inhibition of human CD34+ erythroid progenitor cells.
+8634418:Using synthetic ligands to retinoic acid receptors (RARs) and retinoid X receptors (RXRs) that selectively bind and activate RAR-RXR or RXR-RXR dimers, respectively, we dissected the involvement of the two retinoid response pathways in the regulation of normal myeloid and erythroid progenitor cell growth.
+8634418:Thus, the RAR-RXR response pathway can signal growth inhibition of normal bone marrow myeloid and erythroid progenitor cells.
+8634418:In addition, we demonstrate a unique involvement of the RXR-RXR pathway in mediating growth inhibition of erythroid but not myeloid progenitor cells.
+8628274:Recent studies indicate that HTLV-1 Tax targets IkappaBalpha to the ubiquitin-proteasome pathway .
+8622883:We demonstrate that loss of p16 causes upregulation of this DNA precursor pathway enzyme via activation of E2F by a mechanism involving retinoblastoma protein.
+8634413:A signal transduction pathway activated by many cytokines has recently been elaborated.
+8622971:Stimulation of the cAMP-dependent signaling pathway exerts an inhibitory effect on the proliferation and effector functions of T cells.
+8621480:These findings define a novel protein motif that functions in intracellular calcium signaling .
+8618456:Investigation of these factors promises to shed light on the complex development pathways involved in the regulation of haematopoiesis.
+8562955:Stimulation through the Fas/APO-1 receptor results in apoptosis through an incompletely characterized signaling pathway .
+8562955:More is known regarding signal transduction events that occur after ligation of the T-cell antigen receptor (TCR).
+8562955:Although prior studies suggest a role for protein tyrosine kinases and phosphatases in Fas signaling , we report here that Fas ligation induces apoptosis in T cells deficient in either CD45 or Lck.
+8562955:We show that stimulation with a synthetic ceramide analog results in JNK activation as well as apoptosis, suggesting ceramide release occurs proximal to JNK activation in Fas signaling .
+8562955:Our data suggest that although CD45 and Lck are not required for Fas signaling , JNK activation may play an important role transducing distal signals that lead to apoptosis after Fas ligation.
+8642282:In B7.1-positive B cells, this element bound several members of the NF-kappaB family, transcription factors already implicated in signal transduction pathways relevant to B7.1 expression.
+8617766:These results suggest that the temporal control of c-Jun and c-Fos may be regulated through the ubiquitinylation pathways , and the ubiquitinylation of c-Jun and c-Fos may in turn be regulated in response to the heterodimerization between them and the cooperation between E220K and E3 mediated polyubiquitinylation.
+8558011:Involvement of Janus kinase/signal transducer and activator of transcription and protein kinase C signaling pathways .
+10485875:Here, we studied the role of serine/threonine phosphatases in STAT3 signaling in human antigen-specific CD4(+) T cell lines and cutaneous T cell lymphoma lines, expressing a constitutively activated STAT3.
+10452760: Signal transduction pathways triggered by the FcepsilonRIIb receptor (CD23) in human monocytes lead to nuclear factor-kappaB activation.
+10452760:We have focused on the study of the signal transduction pathways triggered by CD23 in human monocytes and the promonocytic cell line U937.
+10452760:CONCLUSIONS: NF-kappaB is the main transcription factor involved in the signal transduction pathway of CD23 in monocytes.
+8555464:Thus, our data indicate that Stat3 and Stat5 may be involved in signal transduction after ligand binding to c-Mpl and that this event may have a role in megakaryopoiesis/thrombopoiesis or possibly a mature platelet function such as aggregation.
+8809472:Damage to the genes encoding proteins that function in intracellular signaling , transcription, or regulation of the cell cycle has been identified and linked at varying degrees to the progression of certain lymphoid malignancies.
+10454636:These results reveal a new link between the dopamine system, cytokine signaling pathway and regulation of gene expression via the involvement of NF-kappaB in T cells and PBMC.
+10430944:We have determined that the JAK/STAT pathway positively regulates Qp activity.
+10430944:The data imply that JAK/STAT signaling has a role in EBV-associated malignancies.
+8523529:Although little information as to what signal transduction pathways mediate NF-kappa B activation in monocytes-macrophages is available, our previous work indicated that classical protein kinase C (PKC) isoenzymes were not involved in the HIV-mediated NF-kappa B activation.
+8523529:Altogether, these results suggest that atypical PKC isoenzymes, including PKC-zeta, participate in the signal transduction pathways by which HIV infection results in the activation of NF-kappa B in human monocytic cells and macrophages.
+10482545:Our findings suggest that constitutive expression of Bcl-x(L) induced by Tax through the NF-kappaB pathway contributes to the inhibition of apoptosis in CTLL-2 cells after IL-2 deprivation.
+10438903:Moreover, we provide evidence that TCR/CD3 and IL-2 induce Stat3 activation via distinct signaling pathways .
+10430922:Two such clusters were found to have patterns that correlated with variation in cell proliferation rates and with activation of the IFN-regulated signal transduction pathway , respectively.
+8598210:The activation is rapid and transient and is mediated through a cyclosporin A-insensitive pathway .
+8598210:Furthermore, this signaling pathway appears not to rely on protein kinase C.
+8734787:Stimulation of the T-cell antigen receptor-CD3 complex signaling pathway by the tyrosine phosphatase inhibitor pervanadate is mediated by inhibition of CD45: evidence for two interconnected Lck/Fyn- or zap-70-dependent signaling pathways.
+8734787:The tyrosine phosphatase specific inhibitor pervanadate is a potent activator of T lymphocytes through induction of tyrosine phosphorylation and downstream events of the activation cascade .
+10499538:Vitamin D analogs, 20-Epi-22-oxa-24a,26a,27a,-trihomo-1alpha,25(OH)2-vitamin D3, 1,24(OH)2-22-ene-24-cyclopropyl-vitamin D3 and 1alpha,25(OH)2-lumisterol3 prime NB4 leukemia cells for monocytic differentiation via nongenomic signaling pathways , involving calcium and calpain.
+10499538:These data suggest that although MC903 and KH1060 may bind the VDRnuc, that the differentiative activities of these agents requires nongenomic signaling pathways .
+10480426:A role for retinoic acid during neutrophil maturation has been suggested from a variety of sources. Here we present a review of the mechanism of retinoic acid receptor action and the major evidence showing that normal retinoid signaling is required for neutrophil maturation.
+10430908:NF-kappaB-mediated up-regulation of Bcl-x and Bfl-1/A1 is required for CD40 survival signaling in B lymphocytes.
+10430908:Inhibition of the NF-kappaB pathway by overexpression of a dominant-active inhibitor of NF-kappaB abolished CD40-induced up-regulation of both the Bfl-1 and Bcl-x genes and also eliminated the ability of CD40 to rescue Fas-induced cell death.
+10430908:Furthermore, expression of physiological levels of Bcl-x protected B cells from Fas-mediated apoptosis in the absence of NF-kappaB signaling .
+8561779:Inhibition of NF-AT signal transduction events by a dominant-negative form of calcineurin.
+8561779:These data suggest the potential utility of agents that disrupt calcineurin-mediated signal transduction pathways by blocking formation of the catalytically active dimer of calcineurin A and B subunits.
+8675228:However, signal transduction of IL-10 in B cells is poorly understood.
+8675228:Since this is the first report on IL-10 induced signal transduction , these data may help to identify the intracellular mechanisms by which IL-10 stimulates human B-cells.
+10458769:Studies with motheaten mice, which lack the SHP1 protein tyrosine phosphatase, indicate that this enzyme plays an important negative role in T cell antigen receptor (TCR) signaling .
+10458769:To define these targets for SHP1 we have compared the effects of constitutively active and inactive mutants of SHP1 on TCR signaling .
+10458769:Therefore, we suggest that SHP1 is not actively recruited to inhibit TCR signaling induced by ligation of this receptor alone.
+10477716:Tumor necrosis factor alpha (TNFalpha) is a pluripotent activator of inflammation by inducing a proinflammatory cytokine cascade .
+10477716:These data indicate that TNFalpha induces a delayed ROS-dependent signalling pathway that is required for NF-kappaB transcriptional activation and is separable from that required for its nuclear translocation.
+10477716:Further definition of this pathway will yield new insights into inflammation initiated by TNFalpha signalling .
+10438457:By using Jurkat and primary human T lymphocytes, we demonstrate that the simultaneous activation of two second messengers of the TCR-initiated signal transduction , protein kinase C (PKC) and calcineurin, results in the synergistic activation of the IkappaBalpha kinase (IKK) complex but not of another putative IkappaBalpha kinase, p90(rsk).
+10438457:These results indicate that within the TCR/CD3 signal transduction pathway both PKC and calcineurin are required for the effective activation of the IKK complex and NF-kappaB in T lymphocytes.
+10415609:The mechanism(s) of action of GCH is under investigation, but is has been noted that they exert immune activity via the genomic pathway .
+10426995:Several lipoproteins stimulated TLR-dependent transcription of inducible nitric oxide synthase and the production of nitric oxide, a powerful microbicidal pathway .
+10415075:Numerous cellular and biochemical abnormalities in immune regulation have been described in patients with systemic lupus erythematosus (SLE), including surface Ag receptor-initiated signaling events and lymphokine production.
+10415075:Freshly isolated T cells from lupus patients, rheumatoid arthritis (RA) patients, and normal individuals were activated physiologically via the TCR with anti-CD3 and anti-CD28 Abs to assess proximal membrane signaling, and with PMA and a calcium ionophore (A23187) to bypass membrane-mediated signaling events .
+10395652: Signaling events induced by lipopolysaccharide-activated toll-like receptor 2.
+10395652:Intracellular deletion variants of TLR2 lacking C-terminal 13 or 141 aa fail to recruit IRAK, which is consistent with the inability of these mutants to transmit LPS cellular signaling .
+10395652:Moreover, both deletion mutants could still form complexes with wild-type TLR2 and act in a dominant-negative (DN) fashion to block TLR2-mediated signal transduction .
+10395652:These results reveal a conserved signaling pathway for TLR2 and IL-1Rs and suggest a molecular mechanism for the inhibition of TLR2 by DN variants.
+10380915:Tyrphostin AG-490 inhibits cytokine-mediated JAK3/STAT5a/b signal transduction and cellular proliferation of antigen-activated human T cells.
+10380915:Taken together, these findings suggest that AG-490 inhibits the JAK3-mediated Type II signaling pathway but not the T cell receptor-derived Type I pathway and possesses therapeutic potential for T cell-derived pathologies such as graft-versus-host disease, allergy, and autoimmune disorders.
+10358173:Therefore, IRF-1 may be an important contributor to IL-12 signaling , and we speculate that the defective IL-12 responses seen in IRF-1-/- mice might be attributable, in part, to the absence of this transcription factor.
+10233875:These results suggest that NF-kappaB activation is required for C5a-induced IL-8 gene expression and that this response is mediated primarily through a pertussis toxin-insensitive pathway .
+10395671:Activation of the Janus kinase 3-STAT5a pathway after CD40 triggering of human monocytes but not of resting B cells.
+10395671:The signal transduction events triggered by cross-linking of the CD40 receptor have been widely studied in B cell lines, but little is known about signaling following CD40 stimulation of monocytes and resting tonsillar B cells.
+10395671:Therefore, we studied the CD40 pathway in highly purified human monocytes and resting B cells.
+10381500:Genetic evidence for an additional factor required for erythropoietin-induced signal transduction .
+10330189:In response to activation of the Wnt signaling pathway , beta-catenin accumulates in the nucleus, where it cooperates with LEF/TCF (for lymphoid enhancer factor and T-cell factor) transcription factors to activate gene expression.
+10229231:One of the best understood apoptotic pathways occurs in T lymphocytes and is mediated by Fas/Fas ligand (FasL) interaction.
+10409763:We now find that LMP1 signaling through TRADD differs from TNFR1 signaling through TRADD.
+10378896: Signal transduction pathways in normal human monocytes stimulated by cytokines and mediators: comparative study with normal human neutrophils or transformed cells and the putative roles in functionality and cell biology.
+10358154:We have investigated several molecular pathways that are known to be activated by IL-2 in T cells.
+10358154:PNU156804 action is restricted to some signaling pathways ; it does not affect NF-kappa B activation by PMA in T cells but blocks that induced by CD40 cross-linking in B lymphocytes.
+10359894:CONCLUSION: These findings suggest that the chemokine pathways are modulated by DEP-PAHs at the transcriptional level, reinforcing the idea that the development of inflammatory reactions might be affected by diesel exhaust emission.
+10347175:These findings suggest that the synergy between SLP-76 and Vav in regulating IL-2 gene expression reflects the cooperation between different signaling pathways .
+10329626:Rel/NF-kappaB can trigger the Notch signaling pathway by inducing the expression of Jagged1, a ligand for Notch receptors.
+10329626:These results demonstrate that c-Rel can trigger the Notch signaling pathway in neighboring cells by inducing jagged1 gene expression, and suggest a role for Jagged1 in B-cell activation, differentiation or function.
+10377411:Consequently, inhibition of NF-kappaB nuclear translocation and the expression of dominant negative mutant forms of components of the NF-kappaB activation pathway , such as IkappaBalpha or p65, prompt rapid apoptosis of T. parva-transformed T cells.
+10339482:Constitutive STAT5 activity, activated through an unknown pathway not including JAK2 or EPOR, may act in concert with the constitutive PI3-kinase/PKB/Akt pathway to protect the EPO-independent HCD57-SREI cells from apoptosis and promote limited proliferation.
+10367897:CBP/p300 integrates Raf/Rac-signaling pathways in the transcriptional induction of NF-ATc during T cell activation.
+10357818:Molecular and biochemical approaches demonstrated that LMP1 usurps cellular signaling pathways resulting in the induction of NF-kappaB and AP-1 via two C-terminal activating regions.
+10357818:These results reveal a novel activating region in the LMP1 C-terminus and identify the JAK/STAT pathway as a target of this viral integral membrane protein in B cells.
+10376531:Thereafter, PML is downmodulated in late granulocytic maturation, whereas it is sustainably expressed through the erythroid pathway .
+10359012:The purpose of this study was to evaluate whether the mitogen-activated protein kinase (MAPK) signaling pathway contributes to 12-O-tetradecanoylphorbol-13-acetate (TPA)-induced mononuclear differentiation in the human myeloblastic leukemia ML-1 cells.
+10233947:In addition to activating transcription from the viral long terminal repeat (LTR) through the cyclic AMP response element binding protein/activating transcription factor (CREB/ATF) family of transcription factors, Tax activates the expression of multiple cellular promoters through the NF-kappaB pathway of transcriptional activation.
+10233947:These results indicate that activation of the CREB/ATF pathway by Tax is dispensable for the immortalization of T cells by HTLV-1, whereas activation of the NF-kappaB pathway may be critical.
+10229820:The signaling events that link FGF receptor-1 engagement and NF-kappaB activation in Jurkat are probably distinct from the CD28 costimulation pathway , since FGF-1-induced Rel/kappaB binding proteins do not contain significant levels of c-Rel and are not identical with the CD28 response complex.
+10352279:LP T cells exhibit enhanced IL-2 secretion when activated through the CD2 pathway .
+10352279:Previous studies have characterized the CD28 augmentation of TCR-mediated signaling in peripheral blood T cells through transcriptional activation of an IL-2 promoter CD28 response element (CD28RE), along with enhanced mRNA stability.
+10229815:These results indicate that CTLA-4 signaling inhibits events early in T cell activation both at IL-2 transcription and at the level of IL-2-independent events of the cell cycle, and does not simply oppose CD28-mediated costimulation.
+10373548:Members of the recently discovered SOCS/CIS/SSI family have been proposed as regulators of cytokine signaling , and while targets and mechanisms have been suggested for some family members, the precise role of these proteins remains to be defined.
+10352273:Modulation of CD28 expression: distinct regulatory pathways during activation and replicative senescence.
+10229324:To determine activation status of the IL-2R-associated (Jak/STAT) pathway in the HTLV-I infected cells, we examined tyrosine phosphorylation of Jak3, STAT3, and STAT5 in several HTLV-I(+) T-cell lines and in uncultured leukemic T cells isolated from patients with adult T-cell lymphoma/leukemia (ATLL).
+10229324:Furthermore, expression of SHP-1 phosphatase which is a negative regulator of cytokine receptor signaling , was lost in most IL-2 independent cell lines (3/4) but not in the leukemic ATLL cells (0/3).
+10229324:We conclude that (1) HTLV-I infection per se does not result in a constitutive phosphorylation of the Jak3, STAT3, and STAT5 proteins; (2) malignant transformation in at least some cases of ATLL does not require the constitutive, but may require IL-2-induced, activation of the IL-2R Jak/STAT pathway ; and (3) there are major differences in T-cell immortalization mechanism(s) which appear to involve SHP-1 and target molecules for rapamycin and RAD.
+10373522:In T lymphocytes, the hematopoietic cytokine interleukin-2 (IL-2) uses phosphatidylinositol 3-kinase ( PI 3-kinase)-induced signaling pathways to regulate E2F transcriptional activity, a critical cell cycle checkpoint.
+10373522:Our present results show that IL-2 -and PI 3-kinase-induced pathways for the regulation of E2F transcriptional activity include both rapamycin-resistant and rapamycin-sensitive components.
+10364193:These results demonstrate that the DNA binding activity of STAT3 can be modulated by oxidizing agents and provide a framework to understand the effects of oxidative stress on the JAK-STAT signaling pathway .
+10358756:The development and function of T lymphocytes are regulated tightly by signal transduction pathways that include specific cell-surface receptors, intracellular signaling molecules, and nuclear transcription factors.
+10358756:In addition to increasing our understanding of the molecular pathways that regulate T cell development and function, these results have suggested novel targets for genetic and pharmacological manipulation of T cell immunity.
+10352258:These results point out the involvement of NF-kappa B/Rel family proteins in growth signaling pathways by either regulating proteins involved in the IL-2 signaling or by functionally interfering with the cell cycle progression.
+10210645: Endotoxin (LPS) signal transduction in human monocytes leads to activation of nuclear factor-kappa B (NF-kappaB) and TNF-alpha release.
+10192386:The mutant alleles encode cell-surface IFNgamma receptors that lack the intra-cytoplasmic domain, which, through a combination of impaired recycling, abrogated signalling and normal binding to IFNgamma exert a dominant-negative effect.
+10087648:Because extinction of IL-12 signaling in early Th2 development could potentially be important in imprinting a more permanent Th2 phenotype on a population of T cells, we have also examined various parameters regulating the IL-12 signaling pathway .
+10087648:Whereas IL-4 appears to repress functional IL-12 signaling through inhibition of IL-12R beta 2 expression, IFN-gamma in the mouse, and IFN-alpha in the human appear to induce IL-12R beta 2 expression and promote IL-12 responsiveness.
+10206983:Inhibition of T cell signaling by mitogen-activated protein kinase-targeted hematopoietic tyrosine phosphatase (HePTP).
+10201899:However, p38 MAPK is activated strongly and synergistically by either CD3/CD28 coligation or PMA/Ca2+ ionophore stimulation, which mimics TCR-CD3/CD28-mediated signaling .
+10210322:To explore the receptor signaling pathways involved in RA-induced apoptosis, we used selective ligands for retinoic acid receptors (RARs; RO13-7410) and retinoid X receptors (RXRs; RO 25-6603).
+10097788:Jeg-3 human choriocarcinoma-induced immunosuppression: downregulation of interleukin-2, interleukin-2 receptor alpha-chain, and its Jak/Stat signaling pathway .
+10097788:For IL-2R and signaling pathway molecule analysis , peripheral blood lymphocytes were stimulated with phytohemagglutinin (PHA).
+10202937:Fludarabine-induced immunosuppression is associated with inhibition of STAT1 signaling .
+10087181:The most characterized pathway is via JAK-STAT signaling .
+10087181:Previous studies established a potential role for the Src-family kinase Lck in JAK-STAT signaling .
+10087181:Therefore, this study was designed to analyze the role of Lck in IFN-alpha signaling by using the Jurkat, JCam (an Lck-defective cell line derived from Jurkat), and JCam/Lck (JCam cells with Lck restored).
+10079106:Activation of leukocytes by proinflammatory stimuli selectively initiates intracellular signal transduction via sequential phosphorylation of kinases.
+10086725:MDS1/EVI1 enhances TGF-beta1 signaling and strengthens its growth-inhibitory effect but the leukemia-associated fusion protein AML1/MDS1/EVI1, product of the t(3;21), abrogates growth-inhibition in response to TGF-beta1.
+10086725:By using the yeast two-hybrid system, we also show that EVI1 (contained in its entirety in MDS1/EVI1 and AML1/MDS1/EVI1) physically interacts with SMAD3, which is an intracellular mediator of TGF-beta1 signaling .
+10078502:Abnormalities of cyclic adenosine monophosphate signaling in platelets from untreated patients with bipolar disorder.
+10078502:These findings may provide clues toward understanding the involvement of cAMP signaling in the pathogenesis of bipolar disorder.
+10221643:Beta-catenin is the vertebrate homolog of the Drosophila segment polarity gene Armadillo and plays roles in both cell-cell adhesion and transduction of the Wnt signaling cascade .
+10221643:Here we report that in T cells, Tcf-1 also becomes transcriptionally active through interaction with beta-catenin, suggesting that the Wnt signal transduction pathway is operational in T lymphocytes as well.
+10221643:This is the first demonstration that lithium can alter gene expression of Tcf-responsive genes, and points to a difference in regulation of Wnt signaling between fibroblasts and lymphocytes.
+10202034:By using PD98059, we demonstrated that the Raf1/MEK1/ERK1/2 pathway did not affect the DNA binding of NF-kappa B but, rather, acted at the level of transcriptional activity of NF-kappa B.
+10202034:Our results suggest that the JNK pathway may regulate NF-kappa B-mediated gene transcription through its phosphorylation and activation of c-Jun.
+10225979:Constitutive activation of an epithelial signal transducer and activator of transcription (STAT) pathway in asthma.
+10225979:Cytokine effects on immunity and inflammation often depend on the transcription factors termed signal transducers and activators of transcription (STATs), so STAT signaling pathways are candidates for influencing inflammatory disease.
+10225979:We reasoned that selective IFN responsiveness of the first STAT family member (Stat1) and Stat1-dependent immune-response genes such as intercellular adhesion molecule-1 (ICAM-1), IFN regulatory factor-1 (IRF-1), and Stat1 itself in airway epithelial cells provides a basis for detecting cytokine signaling abnormalities in inflammatory airway disease.
+10225979:The results therefore provide initial evidence linking abnormal behavior of STAT pathways for cytokine signaling to the development of an inflammatory disease.
+10208867:The transcription factor nuclear factor-kappaB (NF-kappaB) participates in most signaling pathways involved in inflammation.
+10208867:Together, the data demonstrate the ability of the vasoactive peptide ANG II to activate inflammatory pathways in human monocytes.
+10202027: Signal transduction pathways activated in endothelial cells following infection with Chlamydia pneumoniae.
+10092805:A decrease in the translation rate is observed when the cells are induced to differentiate along the monocytic/macrophage pathway or along the granulocytic pathway .
+10092805:Taken together, these data provide evidence for differential regulation of the translational machinery during human myeloid differentiation, specific to the monocytic/macrophage pathway or to the granulocytic pathway .
+10075873:This approach should allow for the evaluation of different intracellular signaling pathways using a combination of monoclonal reagents that are specific for native and activation modified proteins.
+10075873:Application of this form of testing should prove valuable in screening for signaling defects in selected patients with recurrent infections.
+10075873:In addition, this technique should permit dissection of a full range of cellular signaling pathways at the protein level.
+10225377:These lipid mediators increase activity of transcription factors and expression of cytokine genes indicating a function for cytosolic phospholipase A2 in signal transduction and inflammation.
+10202024:These results support our hypothesis that HCMV initiates a signal transduction pathway that leads to monocyte activation and pinpoints a potential mechanism whereby HCMV infection of monocytes can result in profound pathogenesis, especially in chronic inflammatory-type conditions.
+10082134: Cobalt chloride-induced signaling in endothelium leading to the augmented adherence of sickle red blood cells and transendothelial migration of monocyte-like HL-60 cells is blocked by PAF-receptor antagonist.
+10082134:However, the cellular signaling pathway (s) caused by hypoxia is poorly understood.
+10082134:We utilized CoCl2 as a mimetic molecule for hypoxia to study cellular signaling pathways .
+10082134:Furthermore, CoCl2 also caused time-dependent tyrosine phosphorylation of mitogen-activated protein (MAP) kinase isoform ERK2 without significantly affecting ERK1, indicating ERK2 is the preferred substrate for upstream kinase of the MAPK pathway .
+10075645:Here we investigated the role and involvement of interleukin-1 (IL-1) and tumor necrosis factor (TNF-alpha) signal transducer molecules in LPS signaling in human dermal microvessel endothelial cells (HDMEC) and THP-1 monocytic cells.
+10075645:LPS stimulation of HDMEC and THP-1 cells initiated an IL-1 receptor-like NF-kappaB signaling cascade .
+10075645:In transient cotransfection experiments, dominant negative mutants of the IL-1 signaling pathway , including MyD88, IRAK, IRAK2, and TRAF6 inhibited both IL-1 -and LPS-induced NF-kappaB-luciferase activity.
+10075645:LPS-induced NF-kappaB activation was not inhibited by a dominant negative mutant of TRAF2 that is involved in TNF signaling .
+10075645:These findings suggest that a signal transduction molecule in the LPS receptor complex may belong to the IL-1 receptor/toll-like receptor (TLR) super family, and the LPS signaling cascade uses an analogous molecular framework for signaling as IL-1 in mononuclear phagocytes and endothelial cells.
+10224470: Signal transduction through interferon-gamma receptor on human eosinophils.
+10224470:But signal transduction through IFN-gammaR on eosinophils remains to be elucidated.
+10224470:In this study, we examined the involvement of the Jak/Stat pathway in the signaling of eosinophils after IFN-gammaR conjugation by the ligand binding.
+10224470:CONCLUSION: These data indicate that IFN-gamma affects eosinophils through its specific receptor and utilizes the Jak/Stat pathway as its mode of signaling.
+10201984:Furthermore, these findings indicate that the optimal activation of T cells by IL-12 and IL-2 may depend on an interaction between the p38 MAP kinase and Janus kinase/STAT signaling pathways .
+10074432:Unlike the proposed role of Cbl as a negative regulator, our results suggest that the Cbl homologue Cbl-b has a positive role in T-cell signaling , most likely via a direct interaction with the upstream kinase Zap-70.
+10224278:Grf40, A novel Grb2 family member, is involved in T cell signaling through interaction with SLP-76 and LAT.
+10224278:Our data suggest that Grf40 is an adaptor molecule involved in TCR-mediated signaling through a more efficient interaction than Grb2 with SLP-76 and LAT.
+10207023:The pocket protein-E2F complexes are convergence points for cell cycle signaling .
+10092775:Evidence for distinct intracellular signaling pathways in CD34+ progenitor to dendritic cell differentiation from a human cell line model.
+10092775:Together, these findings demonstrate that cytokine or phorbol ester stimulation of KG1 is a model of human CD34+ HPC to DC differentiation and suggest that specific intracellular signaling pathways mediate specific events in DC lineage commitment.
+10089566:In this study, we examined whether gp41-induced IL-10 up-regulation is mediated by the previously described synergistic activation of cAMP and NF-kappaB pathways .
+10089566:We also examined the involvement of other signal transduction pathways .
+10089566:Specific inhibitors of p70(S6)-kinase (rapamycin), and Gi protein (pertussis toxin), prevented induction of IL-10 production by gp41 in monocytes, while inhibitors of the phosphatidylinositol 3-kinase (PI 3-kinase) (wortmannin) and mitogen-activated protein kinase (MAPK) pathway (PD 98059) did not.
+10080908:Here we describe methods to investigate whether and how signaling agonists induce myeloid differentiation and how oncoproteins might cause AML by modulating the activity of transcription factors that are pivotal for normal myeloid development.
+9973469:Fas ligand induction in human NK cells is regulated by redox through a calcineurin-nuclear factors of activated T cell-dependent pathway .
+9915850:We have examined early signal transduction pathways recruited following T cell stimulation with either CD80 or CD86.
+9915850:However, CD80 and CD86 also induce distinct signal transduction pathways including the tyrosine phosphorylation of CD28 and phospholipase Cgamma1 and the SH2-dependent association of phosphoinositide 3-kinase with CD28.
+9548485:We hypothesized that activation of the protein kinase A signaling pathway may inhibit NF-kappaB-mediated transcription by phosphorylating proteins, such as cAMP response element-binding protein (CREB), which compete for limiting amounts of the coactivator CBP.
+9548485:These results suggest that activation of the protein kinase A pathway inhibits NF-kappaB transcription by phosphorylating CREB, which competes with p65 for limiting amounts of CBP.
+9933632:These data shed light on the biochemical and molecular mechanisms regulating human granulocyte apoptosis and, in particular, indicate that the transcription factor NF-kappaB plays a crucial role in regulating the physiological cell death pathway in granulocytes.
+9548490:Cross-linking CD19 on early human B lineage cells induces the formation of a CD19/Vav/phosphatidylinositol-3 kinase complex, tyrosine phosphorylation of CD19 and Vav, and activation of the Ras pathway .
+9548490:These data suggest that CD19-mediated signal transduction activates different transcription factors at juxtaposed stages of B cell development that may culminate in the activation or suppression of distinct sets of genes.
+9973402:The induction of clonal anergy in a T cell inhibits IL-2 secretion because of the development of a proximal signal transduction defect .
+10022882:In conclusion, three different cell-specific pathways lead to NF-kappaB activation by IL-1beta: a pathway dependent on ROI production by 5-LOX in lymphoid cells, an ROI- and 5-LOX-independent pathway in epithelial cells, and a pathway requiring ROI production by NADPH oxidase in monocytic cells.
+9882331:The finding of Tax mutants segregating these two pathways suggested that the NF-kappaB pathway was essential for IL-2-independent growth of CTLL-2 cells while the CRE pathway was unnecessary.
+10037138:We found that: (i) both CTCF mRNA and protein are down-regulated during terminal differentiation in most cell lines tested; (ii) CTCF down-regulation is retarded and less pronounced than that of c-myc; (iii) CTCF protein is differentially phosphorylated and the phosphorylation profiles depend on the differentiation pathway .
+9919536:Data obtained from studies in our laboratories demonstrate that the proteasome plays an important role in the inflammatory cascade by regulating the activation of NF-kappa B.
+9497493:Blockade of this intracellular signalling event was associated with a reduction in the normal transendothelial migration response towards MCP-1.
+10029589:The Megakaryocyte/Platelet-specific enhancer of the alpha2beta1 integrin gene: two tandem AP1 sites and the mitogen-activated protein kinase signaling cascade .
+10029589:The requirement for AP1 activation suggested a role for the mitogen-activated protein kinase (MAPK) signaling pathway in regulating alpha2 integrin gene expression.
+10029589:Inhibition of the MAP kinase cascade with PD98059, a specific inhibitor of MAPK kinase 1, prevented the expression of the alpha2 integrin subunit in cells induced to become megakaryocytic.
+10029589:We provide a model of megakaryocytic differentiation in which expression of the alpha2 integrin gene requires signaling via the MAP kinase pathway to activate two tandem AP1 binding sites in the alpha2 integrin enhancer.
+9989503:Functional association of Nmi with Stat5 and Stat1 in IL-2 -and IFNgamma-mediated signaling .
+9872937:These findings suggest that the classical AR present in splenic T cells are not active in the genomic pathway .
+9916078:Involvement of mitogen-activated protein kinase pathways in interleukin-8 production by human monocytes and polymorphonuclear cells stimulated with lipopolysaccharide or Mycoplasma fermentans membrane lipoproteins.
+9916078:It was previously demonstrated that stimulation of monocytic cells with either LPS or LAMPf led to a series of common downstream signaling events , including the activation of protein tyrosine kinase and of mitogen-activated protein kinase cascades .
+9886419:Pretreatment of PBMCs with pertussis toxin blocked the functions of C3a and C3a(desArg), indicating that the actions of these two molecules are mediated by a G protein-coupled pathway .
+9390691:Here we identify the cell cycle regulator E2F as an IL-2 target in T lymphocytes and PI3K as the critical signaling pathway .
+9390691:We eliminate both Stat5 and Raf/MEK pathways from E2F regulation.
+9343231:This indirect response is mediated by other viral or virally induced activities downstream of ZEBRA in the lytic cascade .
+9376579:In contrast to the increase of C/EBP epsilon in 9-cis RA-mediated granulocytic differentiation, the DMSO-induced differentiation of HL-60 cells down the granulocytic pathway was associated with an initial reduction of C/EBP epsilon mRNA levels.
+9374467:Nuclear accumulation of NFAT4 opposed by the JNK signal transduction pathway .
+9374467:These findings show that the nuclear accumulation of NFAT4 promoted by calcineurin is opposed by the JNK signal transduction pathway .
+9394832:From these observations we conclude that free thiols in the IL-1RI complex are essential for the activation of the IL-1RI-associated protein kinase and that this process is mandatory for IL-1 signaling leading to NF-kappa B activation.
+9350434:Involvement of different transduction pathways in NF-kappa B activation by several inducers.
+9350434:Double-stimulation was used to demonstrate that, in a T lymphocytic cell line (CEM), phorbol myristate acetate (PMA) rapidly induced NF-kappa B through a signaling pathway which did not involve reactive oxygen species (ROS) and was different from the activation triggered by either H2O2 or tumor necrosis factor-alpha (TNF-alpha).
+9372912:These bHLH antagonists are induced during a mitogenic signalling response , and they function by sequestering their bHLH targets in inactive heterodimers that are unable to bind to specific gene regulatory (E box) sequences.
+9356353:TNFalpha cooperates with the protein kinase A pathway to synergistically increase HIV-1 LTR transcription via downstream TRE-like cAMP response elements.
+9356353:Recently, we demonstrated that the DSE are also cAMP-responsive elements (CRE), since they mediated activation signals elicited by cholera toxin (Ctx), a potent activator of the cAMP-dependent protein kinase A (PKA) signal transduction pathway .
+9356353:Transfection studies of LTR reporter constructs indicated that mutation of the DSE sites abrogated the LTR-mediated synergy induced by Ctx and TNFalpha, whereas the synergy induced by Ctx and IL-1beta was unaffected, suggesting TNFalpha and IL-1beta cooperate differently with the cAMP/PKA activation pathway to induce HIV-1 expression in U1 cells.
+9356353:These data indicate that the TRE-like cAMP-responsive DSE sites within the 5'-untranslated leader can mediate the transcriptional cooperativity between TNFalpha and the cAMP/PKA pathway .
+9309306:Consequently, these results suggest that physiologically relevant concentrations of ethanol may affect production of inflammatory cytokines, such as tumor necrosis factor-alpha, interleukin-1 beta, and interleukin-6 by disrupting NF-kappa B signaling in monocytes.
+9305919:IL-2 and T cell antigen receptor complex induction of STAT3alpha serine 727 phosphorylation is dependent on the activity of the MEK/ERK pathway .
+9305919:Previous studies have identified H-7-sensitive kinase pathways that regulate STAT3 DNA binding.
+9305919:We show that H-7-sensitive pathways regulate STAT3 DNA binding in T cells.
+9305919:These results thus show that STAT3 proteins are targets for multiple kinase pathways in T cells and can integrate signals from both cytokine receptors and antigen receptors.
+9312192:Cyclosporine (CsA) is both a clinical immunosuppressive drug and a probe to dissect intracellular signaling pathways .
+9312192:We modeled this degree of CN inhibition in primary human leukocytes in vitro in order to study the effect of partial CN inhibition on the downstream signaling events that lead to gene activation.
+9406848:These data show that some transcription factors associated with cytokine signalling can also activate the CRH promoter.
+9326236:Since AP-1 is part of the NFAT complex, we conclude that the IL-7-signaling pathway is involved in the activation of the fos and jun proteins of which AP-1 consists.
+9300687:Although the activating signals leading to Egr-1 induction have been studied extensively, little is known about the genes that are placed further downstream within this activation cascade and that are transcriptionally regulated by Egr-1.
+9366415:Characterization of CD40 signaling determinants regulating nuclear factor-kappa B activation in B lymphocytes.
+9353251:CD30-dependent degradation of TRAF2: implications for negative regulation of TRAF signaling and the control of cell survival.
+9353251:During CD30 signal transduction , we found that binding of TRAF2 to the cytoplasmic domain of CD30 results in the rapid depletion of TRAF2 and the associated protein TRAF1 by proteolysis.
+9360945:Despite stimulation with LPS, disruption of the NF-kappaB signaling pathway in precursor B cells led to the loss of inducible Oct-2 DNA binding activity in vitro and the suppression of Oct-2-directed transcription in vivo.
+9311921:TACI-induced activation of NF-AT was specifically blocked by a dominant-negative CAML mutant, thus implicating CAML as a signaling intermediate .
+9299589:Various extracellular signals, often converging in common intracellular pathways , can induce apoptosis in a cell-type-specific fashion.
+9351829:Epstein-Barr virus latent membrane protein-1 triggers AP-1 activity via the c-Jun N-terminal kinase cascade .
+9351829:LMP-1 effects on AP-1 are mediated through activation of the c-Jun N-terminal kinase (JNK) cascade , but not the extracellular signal-regulated kinase (Erk) pathway .
+9351829:JNK-mediated transcriptional activation of AP-1 is the direct output of LMP-1-triggered signaling , as shown by an inducible LMP-1 mutant.
+9351829:Using a tetracycline-regulated LMP-1 allele, we demonstrate that JNK is also an effector of non-cytotoxic LMP-1 signaling in B cells, the physiological target cells of EBV.
+9351829:In summary, our data reveal a novel effector of LMP-1, the SEK/JNK/c-Jun/AP-1 pathway , which contributes to our understanding of the immortalizing and transforming potential of LMP-1.
+9363920:The activation of the JAK2/STAT5 pathway is commonly involved in signaling through the human IL-5 receptor.
+9363920:In this study, we evaluated the activation of JAK/STAT pathway upon human interleukin-5 (hIL-5) stimulation of two different hIL-5-responsive cell lines, hIL-5 receptor alpha-subunit (hIL-5R alpha) cDNA-transfected TF-1 (TF-h5R alpha) and butyric-acid-treated YY-1 (YY-Bu), and peripheral eosinophils.
+9363920:These results indicate that JAK2/STAT5 activation is a common JAK/STAT pathway for hIL-5-mediated signal in these cells.
+9311830:Moreover, the mechanism of action of BHRF1 resembled that of Bcl-2 and Bcl-xL as it inhibited TNF- and anti-Fas-induced activation of two enzymes participating in the apoptosis pathway , cytosolic phospholipase A2 and caspase-3/CPP32, but did not interfere with the activation of NF-kappaB-like transcription factors.
+9237929:During humoral immune responses, B-lymphocyte activation is followed by differentiation along either the plasma cell pathway or the memory B-cell pathway .
+9164948:Recently, several groups have described marked alterations in signal transduction elements in T cells from cancer patients or in mice bearing tumor for a few weeks (>26 days).
+9164948:The aim of this study was to explore the kinetics of the development of alterations in signal transduction molecules (TCR zeta chain, NF kappaB family proteins, and tyrosine kinase p56(lck)) in mice bearing MC38 colon adenocarcinoma.
+9242431:Here, we report the effect of overexpression of bcl-2 in U937 cells on the signaling pathway of apoptosis that is induced by bufalin.
+9242431:These results indicate that Bcl-2 acts downstream of MAPK kinase-1 but upstream of MAPK and suggest that, in the signaling pathway of the apoptotic process induced by bufalin, the transcriptional activity of activator protein-1 may be down-regulated through the inhibition of MAPK activity by Bcl-2.
+9231664:The transcriptional hierarchy of HNFs suggests that other proteins of the regulatory cascade might be responsible for other forms of MODY and/or late-onset type 2 diabetes.
+9115214:These data suggest that SLP-76 recruits a negative regulator, SLAP-130, as well as positive regulators of signal transduction in T cells.
+9142136:Emphasis is given to recent information about the molecular mechanisms of prolactin receptor signal transduction , and the signaling molecules and prolactin-inducible target genes that participate in these responses.
+9199300:Stat (signal transducers and activators of transcription) and Jak (Janus kinases) proteins are central components in the signal transduction events in hematopoietic and epithelial cells.
+9144479:Data reported herein support the hypothesis that cognate interactions between tissue fibroblasts and infiltrating T lymphocytes, via the CD40/CD40L pathway , augment inflammation and may promote fibrogenesis by activating both cell types.
+9234742:Opposite effects of the acute promyelocytic leukemia PML-retinoic acid receptor alpha (RAR alpha) and PLZF-RAR alpha fusion proteins on retinoic acid signalling .
+9234742:Their different activities on the RA signalling pathway might underlie the different responses of PML-RAR alpha and PLZF-RAR alpha APLs to RA treatment.
+9237759:Both Drosophila Toll and the IL-1 receptor are known to signal through the NF-kappaB pathway .
+9144472:Regulation of CD95 (Fas) ligand expression by TCR-mediated signaling events .
+9144472:Transient transfection studies demonstrate further that TCR-stimulated activation of the Ras signaling pathway is required for optimal activation of CD95 ligand.
+9234727:The heterogeneous nuclear ribonucleoprotein K protein represents a novel class of proteins that may act as docking platforms that orchestrate cross-talk among molecules involved in signal transduction and gene expression.
+9218597: IFN signaling is mediated by binding of IFNs to their receptors and subsequent activation of Janus tyrosine kinase (JAK)-STAT signaling pathway .
+9218597:This suggests that higher intracellular levels of STAT1, STAT2, and p48 protein may result in enhanced signal transduction for cytokines utilizing these transcription factors.
+9224203:The activation of NF-kappa B initiates both extracellular and intracellular regulatory events that result in autoregulation of the inflammatory cascade through modulation of NF-kappa B activation.
+9278334:Human monocyte binding to fibronectin enhances IFN-gamma-induced early signaling events .
+9278334:In the current studies, we evaluated the combinatorial effects of monocyte adhesion and IFN-gamma on intracellular signaling pathways .
+9278334:These results suggest a novel mechanism by which integrin-mediated cell adhesion can modulate the magnitude of cytokine-induced signal transduction pathways , thereby amplifying cellular events leading to monocyte activation and inflammation.
+9234696:Triggering of the T-cell receptor-CD3 complex activates two major signal cascades in T lymphocytes, (i) Ca2+-dependent signal cascades and (ii) protein kinase cascades .
+9234696:Both signal cascades contribute to the induction of the interleukin 2 (IL-2) gene during T-cell activation.
+9234696:Prominent protein kinase cascades are those that activate mitogen-activated protein (MAP) kinases.
+9234696:We show here that c-Raf, which is at the helm of the classic MAP-Erk cascade , contributes to IL-2 induction through a distal enhancer element spanning the nucleotides from positions -502 to -413 in front of the transcriptional start site of the IL-2 gene.
+9234696:Overexpression of BXB, a constitutive active version of c-Raf, and of further members of the Ras-Raf-Erk signal cascade exerted an increase of GABP-mediated promoter-enhancer induction.
+9162091:To further explore the involvement of PI3-K in T cell activation, we created a set of potentially dominant negative PI3-K constructs comprising individual or tandem domains of the regulatory p85 subunit and tested their effect on downstream signaling events like Erk2 activation and transcription from an NFAT (nuclear factor of activated T cells) element taken from the interleukin-2 promoter.
+9261375:ZEBRA, a transcriptional activator, initiates the EBV lytic cascade by activating viral gene expression.
+9211889:While the activation of JAK2, Shc, Erk, and STAT5 proteins correlated with hGM-CSF-mediated cell growth, cellular differentiation occurred in the absence of activation of these signal transduction pathways .
+9212053:Increased expression of Gs(alpha) enhances activation of the adenylyl cyclase signal transduction cascade .
+9212053:The aim of this research was to test the hypothesis that a causal relationship exists between the level of expression of G(S)alpha and induction of the adenylyl cyclase (AC) cascade .
+9212053:In summary, these studies show that the amount of G(S)alpha expression has a marked impact on the level of activity of the AC cascade from the membrane through to the nucleus.
+9180266:Furthermore, Elf-1 interacts specifically with the E74 target sequence and can stimulate transcription driven by the E74 site independent of mitogenic signaling .
+9160887:Analysis of these PBLs revealed that activation of the NF-kappaB pathway is sufficient to promote the growth response to IL-2.
+9271588:Thus, EBV binding to its cellular receptor on resting B cells triggers an NF-kappaB-dependent intracellular signaling pathway which is required for infection.
+9210372:That the signal transduction pathways used by the cytokines IL-2 and IL-15 are identical would suggest that these cytokines have redundant roles in lymphoid development; instead, IL-2 is the guardian of thymus-derived T-cell homeostasis, while interleukin-15 promotes extrathymic development of T and NK cells.
+9151898:This contrasts with findings in alpha- and beta- herpesvirus systems (herpes simplex, cytomegalovirus) where viral interference with the antigen-processing pathway during lytic infection renders immediate early and early proteins much less immunogenic.
+9233623:The rapid up-regulation of RP1 mRNA in properly activated T cells suggests that this gene might belong to the immediate/early gene family, which controls the signal transduction cascade downstream of the TCR.
+9091577:Further, B-1 cells are characterized by aberrant intracellular signaling , including hyperresponsiveness to phorbol ester PKC agonists.
+9091577:Thus, STAT3 may play a role in B cell antigen-specific signaling responses , and its constitutive activation is associated with a normal cell population exhibiting intrinsic proliferative behavior.
+9085258:Elucidation of the biochemical nature of the signal transduction pathway that regulate transcription and replication is the focus of attention in molecular biology.
+9085258:This review outlines general features of signal transduction and several aspects of cytokine networks are discussed with emphasis on: transcriptional regulation of Th1 and Th2-specific cytokine genes in T cells, the roles of cytokines and their receptors in growth and differentiation of hemopoietic cells, and the manipulation of cytokine networks.
+9111081:By contrast, phosphatidic acid accumulation, pleckstrin phosphorylation, and calcium mobilization produced by the combination of NE and threshold of cathepsin G were not significantly different from those measured with threshold of cathepsin G alone (p > 0.05), indicating that the phospholipase C/protein kinase C pathway is not involved in the potentiation of aggregation.
+9061006:Redox regulation of the mitogen-activated protein kinase pathway during lymphocyte activation.
+9061006:To extend these initial observations, we have examined the effect of antioxidant treatment on the activity of the mitogen-activated protein kinases erk1 and erk2, as members of a signal transduction pathway known to directly regulate transcription factor function.
+9061006:These observations provide further evidence to suggest a role for intracellular oxidant generation as a regulatory mechanism during cell cycle entry, and establish a link between oxidative signalling and other aspects of the intracellular signalling network that is activated in response to mitogenic stimulation.
+9015216:Dissociation of the Jak kinase pathway from G-CSF receptor signaling in neutrophils.
+9015216:In this study, we examined early signaling events in proliferating and terminally differentiated cells following G-CSF stimulation to determine whether identical signaling cascades are activated.
+9015216:These results indicate a lack of involvement of Jak kinases in signaling by the G-CSFR in neutrophils, and suggest utilization of alternative signal transduction pathways distinct from those in proliferating cells.
+9015216:Activation of the Jak-Stat pathway correlates with proliferative signaling by the G-CSFR and requires the membrane-proximal box 1 PXP motif, which is conserved in members of the cytokine receptor superfamily.
+9130477:BSAP is unique among the transcription factors that regulate epsilon germline expression, because it is B cell specific, and is at the merging point of two signalling pathways that are critical for IgE switching.
+9099800:Molecular cues delivered by the microenvironment frequently act in an instructive fashion by initiating intracellular signaling pathways that ultimately target a select group of transcription factors.
+9054429:Thus, gammac is not necessary to trigger IL-4-mediated responses in B cells, but its presence is important for optimal IL-4-signaling .
+9054429:These results suggest that two distinct IL-4 signaling pathways exist.
+9070319:These results indicate that IL-4 and ligation of CD40 induce NF-kappa B expression via at least a mechanism dependent on the PI3-kinase pathway and suggest that NF-kappa B sensitive to NAC may play a role in regulating germline C epsilon transcription.
+9129050:Activation of the NF-kappaB pathway by inflammatory stimuli in human neutrophils.
+9045682:These results provide evidence that Jak1 expression is required for mediating tyrosine phosphorylation and activation of crucial molecules involved in IL-4 signal transduction .
+9060666:We generated a point mutant of ZEBRA, Z(S186A), that was not impaired in its ability to activate transcription; however, this mutation abolished its ability to initiate the viral lytic cascade .
+9045614:Immune hyperactivation of HIV-1-infected T cells mediated by Tat and the CD28 pathway .
+9047239:Here we identified an inducible T cell-specific enhancer 14 kb upstream of the IL-3 gene that responded to activation of T cell receptor signaling pathways .
+9127005:Activation of Ras and mitogen-activated protein kinase pathway by terminal complement complexes is G protein dependent.
+9127005:TCC also stimulate a variety of cellular activities, which include cytokine synthesis, proto-oncogene activation, and mitotic signaling .
+9127005:The role of mitogen-activated protein kinase (MAPK) pathway on TCC-inducible mitotic signaling was evaluated by assessing DNA synthesis and activator protein 1 (AP-1) DNA-binding activity.
+9127005:Involvement of G protein in the activation of MAPK pathway by TCC was indicated by inhibition of Raf-1 and ERK1 kinase activity, as well as the DNA synthesis by pretreatment of cells with pertussis toxin.
+9127005:Overexpression of beta-adrenergic receptor kinase 1 carboxyl-terminal peptide in JY25 cells also inhibited Raf-1 and ERK1 activity, indicating a direct involvement of G betagamma subunits in the signal transduction generated through activation of MAPK pathway by TCC assembly in the plasma membrane.
+9136989:Taken together these results demonstrate that the IK protein plays a key role in the constitutive expression of MHC class II antigens and that inhibition induced by IK is upstream of CIITA in this regulatory pathway .
+9065737:The transduction pathway leading to NF-kappaB activation in U937 cells involved the intracellular generation of reactive oxygen species (ROS), as demonstrated by the concomitant inhibitory effects of antioxidants on NF-kappaB activation and the emission of a fluorescent probe reacting intracellularly with hydrogen peroxide.
+9065737:This ROS pathway was also characterized by the use of other inhibitors.
+9065737:However, the NF-kappaB activation pathway involving the acidic sphingomyelinase of the endolysosomial membrane did not seem to participate in the LPS-induced NF-kappaB activation in U937 cells.
+9007200:Thus, the binding of V3 loop of gp120 to the cell surface molecule(s) appears to affect intracellular IL-2 signaling , which leads to the suppression of IL-2-induced T cell growth
+9115394:CONCLUSIONS: Our results establish that PI 3-kinase can both positively and negatively regulate T-cell function, and uncover a previously unrecognized function for PI 3-kinase in T cells as a selective negative regulator of TCR-signalling events and therefore as a determinant of T-cell homeostasis.
+9128727:Here we report that overexpression of Syk in the Lck-negative JCaM1 cells enabled the T cell antigen receptor/CD3 complex to induce a normal activation of the mitogen-activated protein kinase (MAPK) pathway and expression of a nuclear factor of activated T cells reporter construct.
+9128727:In contrast, Zap and other protein-tyrosine kinases were unable to reconstitute these signaling pathways when expressed at the same levels.
+9069290:These cellular responses require intracellular signalling pathways , such as the four MAP kinase (MAPK) pathways .
+9069290:Here we demonstrate a link between the p38 pathway and a member of the myocyte-enhancer factor 2 (MEF2) group of transcription factors.
+9032271:The transduction pathways that lead to I kappaB inactivation remain poorly understood.
+9032271:In contrast, stimuli such as hyperosmotic shock or phosphatase inhibitors, which use PDTC-insensitive pathways , induce I kappaB alpha degradation in 1.3E2.
+9032271:We also report that the human T-cell leukemia virus type 1 (HTLV-1)-derived Tax trans-activator induces NF-kappaB activity in 1.3E2, suggesting that this viral protein does not operate via the defective pathway .
+9121455:Finally, we demonstrate that deletion in NFATx1 of the mapped 60 residues leads to its nuclear translocation independent of calcium signaling .
+9121455:Our results support the model proposing that the N-terminal domain confers calcium-signaling dependence on NFATx1 transactivation activity by regulating its intracellular localization through a protein module that associates with calcineurin and is a target of its phosphatase activity.
+9073544:In six of seven patients examined, inhibition of the VLA-4/VCAM-1 pathway resulted in greater than 50% inhibition of transendothelial migration of T-cells.
+9029146:From our results, we conclude that Rap1 activation in platelets is an important common event in early agonist-induced signalling , and that this activation is mediated by an increased intracellular Ca2+ concentration
+9120310:We demonstrate that: 1) RANTES promoter activity is up-regulated by PMA plus ionomycin, coexpression of the p65 subunit of nuclear factor (NF)-kappa B, the proinflammatory cytokines TNF-alpha and IL-1 beta, and the CD28 costimulatory pathway ; 2) the RANTES promoter region contains four NF-kappa B binding sites at positions -30, -44, -213, and -579 relative to the transcription start site; 3) one site (-213) is an NF-AT (nuclear factor of activated T cells) binding site that also has weak affinity to NF-kappa B, and the most distal site (-579) also serves as a CD28-responsive element; and 4) mutation on any of those NF-kappa B sites or coexpression of I kappa B alpha (cytoplasmic inhibitor of NF-kappa B) markedly reduced the promoter activity.
+9122243:Our results implicate NFIL3/E4BP4 (nuclear factor regulated by IL-3/adenovirus E4 promoter binding protein) in a distinct growth factor-regulated signaling pathway that is responsible for the survival of early B-cell progenitors, and whose alteration by E2A-HLF leads to childhood B lineage leukemia.
+9062356:Common and distinct intracellular signaling pathways in human neutrophils utilized by platelet activating factor and FMLP.
+9062356:We questioned whether these differences might reflect patterns of intracellular signal transduction .
+9062356:Pertussis toxin blocked FMLP-induced activation of the p42/44 (ERK) MAPk cascade , but not that of p38 MAPk.
+9062356:These results demonstrate distinct patterns of intracellular signaling for two chemoattractants and suggest that selective activation of intracellular signaling cascades may underlie different patterns of functional responses.
+9135552:Molecular differences of the A6H molecule or distinct regulation of the A6H transduced AP-1 activation pathway may exist in CD4+ and CD8+ T cell subpopulations.
+9005984:Nonetheless, only a limited portion of the cytoplasmic domain of gamma(c) is necessary for IL-7R signal transduction .
+9005984:Furthermore, replacement of the gamma(c) cytoplasmic domain by a severely truncated erythropoeitin receptor does not affect measured IL-7R signaling events .
+9005984:These findings support a model in which gamma(c) serves primarily to activate signal transduction by the IL-7R complex, while IL-7R alpha determines specific signaling events through its association with cytoplasmic signaling molecules.
+9878608:Here we show that deregulated expression of a single viral gene, ORF 50, which encodes a transactivator able to selectively upregulate delayed-early viral genes, suffices to disrupt latency and induce the lytic gene cascade in latently infected B cells.
+9835626: Cellular pathways for induction of programmed cell death (PCD) have been identified, but little is known about specific extracellular matrix processes that may affect apoptosis along those pathways.
+9815258:Strength of T cell receptor (TCR) signaling , coreceptors, costimulation, antigen-presenting cell type, and cytokines all play crucial roles in determining the efficiency with which type 2 T lymphocytes (Th2, Tc2) develop from uncommitted precursors.
+9143685:Furthermore, Ikaros-null thymocytes hyperproliferate in response to T cell receptor (TCR) signaling ; within days after their appearance in the thymus, clonally expanding populations are detected.
+9143685:In addition, lack of natural killer cells and selective defects in gamma delta T cells and dendritic antigen-presenting cells point to Ikaros as an essential factor for the establishment of early branchpoints of the T cell pathway .
+8985415: STAT1 pathway is involved in activation of caprine arthritis-encephalitis virus long terminal repeat in monocytes.
+9860137:As occurs for HL-60 cell differentiation induced by high phorbol ester concentration, the ciprofibrate-induced phorbol ester-dependent differentiation of HL-60 cells proceeded through the monocytic/macrophage pathway and induced the phosphorylation of proteins with similar molecular weights suggesting that increased protein kinase C activity may be involved in the effect.
+9852070:When this membrane-proximal TRAF6 interaction domain was deleted, RANK-mediated NF-kappaB signaling was completely inhibited while c-Jun NH2-terminal kinase activation was partially inhibited.
+9834272:CONCLUSIONS: Intestinal epithelial cells initiate an inflammatory response with resulting neutrophil-mediated tissue damage in response to E. histolytica infection; this inflammatory cascade can be blocked by inhibiting the transcription of genes regulated by nuclear factor kappaB.
+8980458:Activation of signaling pathways and prevention of apoptosis by cytokines in eosinophils.
+8980458:Recently, there has been some progress in the understanding of the signal transduction pathways activated by these cytokines in eosinophils.
+9850850:Thymic dendritic cells (DC) mediate negative selection at a relatively late stage of the T-cell developmental pathway .
+9825820:Membrane-associated lymphotoxin on natural killer cells activates endothelial cells via an NF-kappaB-dependent pathway .
+8995243:As a first step toward elucidating the function of Cbl in TCR-initiated signaling , we evaluated the ability of wild-type Cbl or a transforming Cbl mutant (70Z/3) to induce transcriptional activation of a nuclear factor of activated T cells (NFAT) element derived from the interleukin 2 (IL2) promoter in transiently cotransfected Jurkat-TAg T cells.
+8995243:These results implicate Cbl in Ras-dependent signaling pathways which lead to NFAT activation.
+9893043: CD2 signalling induces phosphorylation of CREB in primary lymphocytes.
+9893043:Therefore, we investigated CD2 and CD3 receptor-mediated signalling in primary human peripheral blood mononuclear cells (PBMC).
+9893043:These data indicate specific modulation of the CREB/ATF-1 family of transcription factors by the CD2 signalling pathway and suggest CD2 receptor modulation of CRE-mediated transcription following ligand engagement (e.g. cell-to-cell contact).
+9843840:This model is of particular value for exploring physical stress-induced signaling pathways , as well as for testing the effects of novel ventilatory strategies or adjunctive substances aimed at modulating cell activation induced by mechanical ventilation.
+9834081: Signaling pathways mediated by the TNF- and cytokine-receptor families target a common cis-element of the IFN regulatory factor 1 promoter.
+9834081:Targeting of the IRF-1 GAS is not confined to activation via CD40 but extends to other stimuli that mimic the CD40 signaling cascade , like TNF-alpha and EBV.
+9285527:Our results support the idea that human CD36 mediates signal transduction events in response to Ox LDL.
+8977228:Hence, these cytokines do not simply enhance monocyte differentiation, but have complex and slightly divergent effects that impact on HIV replication probably through cell signaling pathways and nuclear factor-kappaB translocation.
+9857074:The serine protease granzyme B is an essential component of the granule exocytosis pathway , a major apoptotic mechanism used by cytotoxic T lymphocytes and natural killer cells to induce target cell apoptosis.
+9834055:BASH shows a substantial sequence similarity to SLP-76, an adaptor protein functioning in TCR-signal transduction .
+9834055:These findings suggest that BASH is involved in BCR-mediated signal transduction and could play a critical role in B cell development in the bursa.
+9823774:Granulocyte colony-stimulating factor (G-CSF) signaling involves activation of STATs, proteins that serve the dual function of signal transduction and activation of transcription.
+9840924:Tpl-2 induces IL-2 expression in T-cell lines by triggering multiple signaling pathways that activate NFAT and NF-kappaB.
+9840924:Here we show that the activation of the IL-2 promoter by Tpl-2 is inhibited by mutant signaling molecules that inhibit the mitogen-activated protein kinase (MAPK) or the calcineurin/NFAT pathways and is promoted by combinations of signaling molecules that activate these pathways.
+9840924:We, therefore, conclude that signals generated by the convergence of the MAPK and the calcineurin/NFAT pathway are necessary and sufficient for the activation of the IL-2 promoter by Tpl-2.
+9831865:The JAK/STAT pathway is one of the signaling pathways implicated in mediating biological responses induced by these cytokines.
+9831170:Upon ligand-induced Mpl homodimerization, the major signaling events for proliferation are mediated through the JAK2/STAT5 pathway , while differentiation might occur through a prolonged activation of the MAPK pathway .
+9846495:GATA-3 inhibits Th1 cytokines by a cell-intrinsic mechanism that is not dependent on IL-4 and that may involve repression of IL-12 signaling .
+9846495:Thus, GATA-3 expression and IL-12 signaling are mutually antagonistic, which facilitates rapid dominance of one pathway during early Th development, producing a stable divergence in cytokine profiles.
+9862673:Flow cytometric and morphological analyses demonstrated that the addition of CD70 transfectants to B cell cultures remarkably promoted differentiation into plasma cells in the presence of IL-4 and CD40 signaling .
+9862673:Taken together, our findings indicate that signaling via CD27 on B cells induces IgE synthesis, in cooperation with IL-4 and CD40 signaling, by promoting the generation of plasma cells through up-regulation of positive regulatory domain I-binding factor-1.
+9817603:In addition, Ras(G12V) complemented signaling by an erythropoietin receptor mutant defective in Ras activation and augmented the activation of the beta-casein promoter by the mutant erythropoietin receptor signaling , suggesting a possible role of Ras in Stat5-mediated gene expression.
+9817603:These results collectively reveal a complex interaction of STAT5 with other signaling pathways and illustrate that regulation of gene expression requires integration of opposing signals
+9794375:We have examined changes in HS1 phosphorylation after differential stimulation of CD3, CD2, and CD28 to elucidate its role in T cells and to further delineate the signaling pathways recruited by these receptors.
+9765295:We have investigated the signal transduction pathway from Fc receptors that leads to gene activation and production of cytokines in monocytes.
+9765295:These results strongly suggest that the signaling pathway from Fc receptors leading to expression of different genes important to leukocyte biology, initiates with tyrosine kinases and requires MAPK activation; but in contrast to other tyrosine kinase receptors, FcR-mediated MAPK activation does not involve Ras and Raf.
+9742120:The ability of E2A-HLF to prolong the survival of interleukin-3 (IL-3)-dependent murine pro-B cells after IL-3 withdrawal suggests that it disrupts signaling pathways normally responsible for cell suicide, allowing the cells to accumulate as transformed lymphoblasts.
+9730957:These results suggest that 1) lipid A myristoyl fatty acid, although it is important for the induction of inflammatory cytokine production by human monocytes, is not necessary for the induction of Mn SOD, 2) endotoxin-mediated induction of Mn SOD and inflammatory cytokines are regulated, at least in part, through different signal transduction pathways , and 3) failure of the mutant endotoxin to induce tumor necrosis factor-alpha production is, at least in part, due to its inability to activate mitogen-activated protein kinase.
+9802971:A nongenomic mechanism for progesterone-mediated immunosuppression: inhibition of K+ channels, Ca2+ signaling , and gene expression in T lymphocytes.
+9802971:As a result, Ca2+ signaling and nuclear factor of activated T cells (NF-AT)-driven gene expression are inhibited.
+9802971:Progesterone acts distally to the initial steps of T cell receptor (TCR)-mediated signal transduction , since it blocks sustained Ca2+ signals after thapsigargin stimulation, as well as oscillatory Ca2+ signals, but not the Ca2+ transient after TCR stimulation.
+9743370:Additional stimulation of the CD3/TCR pathway enhances the oxidative and apoptotic effects.
+9800475:We propose that one of the targets of PGE2, whose effect distinguishes Th1 from Th2, resides in the downstream PKC/Ras-mediated pathway .
+9794241:The molecular cloning of the NFAT family of transcription factors has facilitated rapid progress in the understanding of the signalling mechanisms that control the activity of NFAT.
+9783909:Down-regulation of 17beta-HSD IV mRNA expression was associated with enhanced estradiol inactivation by U937 cells, suggesting a link between estrogenic pathways and cell proliferation.
+9765256:In this study, we present evidence indicating that signal transduction pathways induced by PGE2 necessitate the participation of cyclic AMP, protein kinase A, and Ca2+.
+9741337:Our results suggest that reduced IL-2 production by neonatal T cells is specific for anti-CD3 and anti-CD3+ anti-CD28-mediated stimulation and that these activators cannot effectively activate the ROI-NF-kappa B signalling pathway in neonatal T cells.
+9728057:Hemorrhagic shock (HS) initiates an inflammatory cascade that includes the production of cytokines and recruitment of neutrophils (PMN) and may progress to organ failure, inducing acute respiratory distress syndrome (ARDS).
+9808586:The oxidant stress-induced signaling resulted in an increased surface expression of a subset of CAMs, ICAM-1, E-selectin, and VCAM-1 in HUVEC.
+9796963: Signal transduction abnormalities in T lymphocytes from patients with advanced renal carcinoma: clinical relevance and effects of cytokine therapy.
+9796963:Studies have demonstrated abnormalities of the CD3/T-cell antigen receptor (TCR) and pathways of signal transduction in T lymphocytes from animals and patients with advanced malignancy.
+9727049:A p56lck-independent pathway of CD2 signaling involves Jun kinase.
+9727049:We now provide evidence for a CD2-based signaling pathway which, in contrast to that of the T cell receptor, is independent of p56.
+9727049:These data elucidate differences between TCR and CD2 signaling pathways in the same T cells.
+9796702:Activation of this lipid kinase is able to induce critical Rac-1 signaling pathways and can couple p21ras to cell survival mechanisms via the serine/threonine kinase Akt/PKB.
+9796702:The role of PtdIns 3-kinase in Ras signaling in T cells has not been explored.
+9796702:In the present study, we examined the ability of PtdIns 3-kinase to initiate the Rac-1 signaling pathways important for T cell activation.
+9796702:Ras can initiate Rac-1 regulated signaling pathways in the context of T cell antigen receptor function independently of PtdIns 3-kinase activity.
+9712047:We have found recently that okadaic acid-sensitive Ser/Thr phosphatases are involved in a cyclosporin A-insensitive pathway that selectively transmits costimulatory signals.
+9791541:Specific families of receptors, kinases, transcription factors, and cysteine proteases, termed caspases, are involved in the apoptotic cascade leading to proteolysis of specific substrates and to morphological changes associated with programmed cell death.
+9791541:Although common members of the apoptotic cascade are shared between different cell types, it appears that cell-specific factors can influence the response to a given apoptotic stimuli.
+9791541:Characterization and understanding of the basic mechanisms involved in the different pathways protecting or leading to cell death may provide novel ways to control inappropriate apoptosis involved in several diseases.
+9733846:We have pursued our investigation of the role of the CD4 transduction pathway in HIV-induced apoptosis.
+9733846:These observations demonstrate that CD4 signaling mediates HIV-induced apoptosis by a mechanism independent of Fas-Fas ligand interaction, does not require p56(lck) signaling , and may involve a critical region for CD4 dimerization.
+9712026:A CD28-associated signaling pathway leading to cytokine gene transcription and T cell proliferation without TCR engagement.
+9712026:To test whether this putative function of CD28 is mediated via a particular signaling pathway, we compared early signaling events initiated in resting T cells by the stimulatory mAb BW 828 with signals triggered by the nonstimulating CD28 mAb 9.3.
+9712026:In contrast to the differential signaling of BW 828 and 9.3 in resting T cells, the two mAbs exhibited a similar pattern of early signaling events in activated T cells and Jurkat cells (p56(lck) activation, association of phosphatidylinositol 3-kinase with CD28), indicating that the signaling capacity of CD28 changes with activation.
+9712026:These data support the view that stimulation through CD28 can induce some effector functions in T cells and suggest that this capacity is associated with a particular pattern of early signaling events
+9794422:Consistent with defective transport along the endocytic pathway , the maturation of SDS-stable class II alphabeta dimers--dependent upon removal of Ii chain and peptide loading of class II dimers in the MHC class II compartment--was markedly impaired in M. tuberculosis-infected cells.
+9768594:Analysis of cytokine signaling in patients with extrinsic asthma and hyperimmunoglobulin E.
+9768594:Examination of Stat6 DNA-binding activity demonstrated no activation of IL-4 signaling in patients with either HIE or acute asthma.
+9712019:These data indicate that the IFN-gamma-independent component of the target cell HLA-DR expression induced by lymphocyte adhesion uses a signaling pathway that is distinct from the IFN-gamma-dependent mechanism and also suggest that CIITA is not required.
+9808178:The association and activation of the IL-1 receptor-associated protein kinase (IRAK) to the IL-1 receptor complex is one of the earliest events detectable in IL-1 signal transduction .
+9808178:We generated permanent clones of the murine T cell line EL4 6.1 overexpressing human (h)IRAK to evaluate the role of this kinase in IL-1 signaling .
+9794414:The role of protein kinase C signaling in activated DRA transcription.
+9756643:This study shows that the mitogen-activated protein kinase cascade is blocked when anergy is induced to high concentrations of soluble peptide.
+9710600:However, plasma membrane-proximal elements in these proinflammatory cytokine pathways are apparently not involved since dominant negative mutants of the TRAF2 and TRAF6 adaptors, which effectively block signaling through the cytoplasmic tails of the TNF-alpha and IL-1 receptors, respectively, do not inhibit Tax induction of NF-kappaB.
+9710600:Together, these studies demonstrate that HTLV-1 Tax exploits a distal part of the proinflammatory cytokine signaling cascade leading to induction of NF-kappaB.
+9804806:Role of IKK1 and IKK2 in lipopolysaccharide signaling in human monocytic cells.
+9804806:Recently, we have reported that the tumor necrosis factor and interleukin 1 signaling pathways activate two kinases, IKK1 and IKK2.
+9794389:IL-7 reconstitutes multiple aspects of v-Abl-mediated signaling .
+9794389:Previous studies have shown constitutive activation of IL-4 and IL-7 signaling pathways , as measured by activation of Janus protein kinase (JAK)1, JAK3, STAT5, and STAT6, in pre-B cells transformed by v-Abl.
+9794389:These results identify a potential role for IL-7 signaling pathways in transformation by v-Abl while demonstrating that a combination of IL-4 and IL-7 signaling cannot substitute for an active v-Abl kinase in transformed pre-B cells.
+9787185:Coproporphyrinogen oxidase (CPO) catalyzes the sixth step of the heme biosynthetic pathway .
+9710582:The effect of Rho on AP-1 is independent of the mitogen-activated protein kinase pathway , as a dominant-negative MEK and a MEK inhibitor (PD98059) did not affect Rho-induced AP-1 activity.
+9700101:One consequence of the activation of PKC can be increased expression of mitogen-activated protein (MAP) kinase pathways .
+9665884:SLP-76 was not required for TCR-induced tyrosine phosphorylation of most proteins, but was required for optimal tyrosine phosphorylation and activation of phospholipase C-gamma1 (PLC-gamma1), as well as Ras pathway activation .
+9665884:Thus, coupling of TCR-regulated PTKs to downstream signaling pathways requires SLP-76.
+9649341:This suggested that Ro 09-2210 was inhibiting an activator of AP-1 which was upstream of c-jun and downstream of ras signaling .
+9572990:In conclusion, our data suggest the involvement of the Jak/Stat signal pathway in MHC-I-induced signal transduction in T cells.
+9710149:This inhibition is not accompanied by a loss in viability, and DMDTC-treated T cells retain other active signaling pathways throughout the exposure duration.
+9690455:To determine whether the acquisition of antitumor function during ex vivo activation is associated with modifications in signal transduction capacity , the protein tyrosine kinases p56lck and p59fyn and proteins of the NF-kappaB family were analyzed in tumor-draining LN T cells.
+9657743:Thus, human erythroid precursors can be expanded in vitro in sufficient numbers and purity to allow its usage in signal transduction studies .
+9649186:Effects of oxidative stress on stimulation-dependent signal transduction , leading to IL-2 expression, were studied.
+9697844:MyD88, originally isolated as a myeloid differentiation primary response gene, is shown to act as an adaptor in interleukin-1 (IL-1) signaling by interacting with both the IL-1 receptor complex and IL-1 receptor-associated kinase (IRAK).
+9697844:Taken together, these results demonstrate that MyD88 is a critical component in the signaling cascade that is mediated by IL-1 receptor as well as IL-18 receptor.
+9678718:Using this RAR-selective antagonist, and RXR and RAR agonist, we demonstrate the RAR-mediated signaling pathway is important for differentiation and apoptosis of myeloid leukemic cells.
+9657742:Thus, GATA-1 plays important in vivo roles for directing definitive hematopoietic progenitors to differentiate along both the erythroid and megakaryocytic pathways .
+9647227:Differential regulation of the Janus kinase-STAT pathway and biologic function of IL-13 in primary human NK and T cells: a comparative study with IL-4.
+9625770:The human toll signaling pathway : divergence of nuclear factor kappaB and JNK/SAPK activation upstream of tumor necrosis factor receptor-associated factor 6 (TRAF6).
+9660938:These stimuli also induced the stress-activated kinase pathway (SAPK/JNK), which was required for the maximal induction of apoptosis.
+9657720:A nonpeptidyl small molecule SB 247464, capable of activating granulocyte-colony-stimulating factor (G-CSF) signal transduction pathways , was identified in a high-throughput assay in cultured cells.
+9618758:TCF/LEF proteins have recently been found to constitute a downstream component of the Wingless/Wnt signal transduction pathway .
+8419337:The Fc epsilon RI-gamma chains are expressed in a variety of hematopoietic cells where they play a critical role in signal transduction .
+8496188:We have investigated an oxidoreductive regulatory pathway for the DNA binding activity of a pleiotropic cellular transcription factor, nuclear factor kappa B (NF kappa B), has been investigated by using NF kappa B prepared from the nucleus and the cytosol of the primary human T lymphocytes.
+8428943:ras protein activity is essential for T-cell antigen receptor signal transduction .
+8428943:A dominant inhibitory ras mutant specifically blocked antigen receptor agonism, indicating that ras activity is required for antigen receptor signaling .
+8389757:Taken together, these findings suggest that vincristine resistance confers insensitivity to TPA-induced differentiation and can include defects in PKC-mediated signaling events and induction of jun/fos early response gene expression.
+7692652:FK506 and ciclosporin: molecular probes for studying intracellular signal transduction .
+7692652:The immunosuppressants ciclosporin and FK506 block the Ca(2+)-dependent signal-transduction pathway emanating from the T-cell receptor, thereby inhibiting the activation of helper T cells.
+8458581:p105 and p98 precursor proteins play an active role in NF-kappa B-mediated signal transduction .
+8096091:NF-kappa B controls expression of inhibitor I kappa B alpha: evidence for an inducible autoregulatory pathway .
+8096091:Together, these results show that NF-kappa B controls the expression of I kappa B alpha by means of an inducible autoregulatory pathway .
+8101106:These findings indicate that antisense oligomers to p65 can be used to define the role of NF-kappa B in the activation pathways of neutrophils.
+8314857:The kinetics of induced differentiation are consistent with a G1 specific cellular response to initiate the metabolic cascade culminating in cell differentiation.
+8468462:This effect is largely independent of the CD2:lymphocyte function-associated Ag-3 pathway .
+8436816:In contrast to wild-type B cells, neither of the class II mutant cell lines could use the X box region to direct the expression of a transiently transfected reporter gene, indicating that the X box-dependent transcriptional pathway is defective in these cells.
+8419931:Tyrosine phosphorylation is a mandatory proximal step in radiation-induced activation of the protein kinase C signaling pathway in human B-lymphocyte precursors [published erratum appears in Proc Natl Acad Sci U S A 1993 Apr 15;90(8):3775]
+8419931:Ionizing radiation triggers a signal in human B-lymphocyte precursors that is intimately linked to an active protein-tyrosine kinase regulatory pathway .
+8419931:Thus, tyrosine phosphorylation is an important and perhaps mandatory proximal step in the activation of the protein kinase C signaling cascade in human B-lymphocyte precursors.
+8419931:Our report expands current knowledge of the radiation-induced signaling cascade by clarifying the chronological sequence of biochemical events that follow irradiation.
+8395188:METHODS: TNF receptor surface expression was determined by specific monoclonal antibody recognition and flow cytometry, and signal transduction was detected by gel shift analysis.
+8395188:CONCLUSIONS: Our results demonstrated that HIV-1 infection can selectively influence the surface expression of TNF receptors, potentially influencing its own expression and altering normal immunoregulatory signal transduction .
+8383323:In this report, we show that in human peripheral blood T cells, CD28-mediated signal transduction involves the rel family proteins--c-Rel, p50, and p65.
+8392437:Costimulation of cAMP and protein kinase C pathways inhibits the CD3-dependent T cell activation and leads to a persistent expression of the AP-1 transcription factor.
+8392437:The effects mediated by a combined stimulation of cAMP -and protein kinase C (PKC)-dependent pathways have been investigated in different cellular systems, and it has been shown that they may complement each other in activating cell proliferation and differentiation.
+8392437:Analysis of intracellular Ca2+ mobilization suggested that the CD3/TcR-dependent signal transduction was impaired in PMA/Bt2cAMP-treated cells.
+8392437:Altogether, the data provide the evidence that both pathways complement each other in regulating gene expression and, conversely, downregulate the TcR transduction mechanisms .
+8388998:Interaction between protein kinase C (PKC)- and glucocorticoid receptor (GR)-mediated signaling is suggested by the ability of the PKC activating phorbol ester 12-O-tetradecanoylphorbol-13-acetate (TPA) to inhibit GR-dependent transcription of the mouse mammary tumor virus (MMTV) long terminal repeat (LTR).
+1338726:A second messenger cascade involved is the inositol 1,4,5-trisphosphate/calcium pathway which responds over the same rapid time course.
+1434944:Because previous work has demonstrated that T cells from elderly individuals may display normal proliferative responses when activated via the anti-CD2 pathway , c-jun and jun B mRNA expression was also studied in anti-CD2-activated purified T cells.
+1482376:Recent findings suggest an involvement of reactive oxygen species (ROS) in signal transduction pathways leading to NF-kappa B activation.
+1545132:We have studied the regulation of AP-1 activity in human peripheral blood T lymphocytes stimulated through the activation inducer molecule (AIM)/CD69 activation pathway .
+1545132:These data provide the evidence that activation of human peripheral blood T cells through the AIM activation pathway regulate the activity of AP-1.
+1371788:Taken together, our data demonstrate that TNF gene expression in monocytes induced by different types of stimuli can be blocked by gangliosides at an early step of signal transduction .
+1470918:The stability of c-Fos was found to also be controlled by intracellular signal transduction .
+1492121:Viral trans-activators such as Tax (human T cell leukemia virus-1, HTLV-1) and E2 (bovine papilloma virus, BPV) proteins are other agents which activate lymphokine gene expression by bypassing T cell receptor (TCR) mediated signaling .
+1335418:The results demonstrate that the simultaneous activation of PKC and elevation of cAMP leads to an enhanced AP-1 transcriptional activity in a T-leukemia cell line, suggesting that the previously observed interaction between the parallel signal transduction pathways may have functional consequences at the level of gene transcription.
+1502171:These findings provide direct in vivo evidence to strongly suggest that the modulation of X1 and X2 interactions is an important constituent of the interferon gamma induction pathway .
+1351090:Reduced susceptibility to HIV-1 infection of ethyl-methanesulfonate-treated CEM subclones correlates with a blockade in their protein kinase C signaling pathway .
+1505523:In this report we demonstrate that in certain CNS-derived cells Tat is capable of activating HIV-1 through a TAR-independent pathway .
+1314139:The data suggest that differences in functional responses elicited in monocytes by all three factors may be dependent on different routes on nuclear signalling employed by the factors.
+1829648:The MAD-3 cDNA encodes an I kappa B-like protein that is likely to be involved in regulation of transcriptional responses to NF-kappa B, including adhesion-dependent pathways of monocyte activation.
+2039752:However, the lysis pathway in the dex-resistant cells is defective in that dex-resistant clones needed significantly more cortivazol than the normal cells for lysis of the cells.
+1883525:To date, little is known about the intracellular pathway of M-CSF signal transduction .
+2065663:This suggests that diverse agents thought to activate NF-kappa B by distinct intracellular pathways might all act through a common mechanism involving the synthesis of ROI.
+1763035:These data suggest a role for HSP27 in the signal transduction events of platelet activation.
+2050125:5-Aminolevulinate synthase (ALAS) catalyzes the first step of the heme biosynthetic pathway .
+1712226:The present studies have examined the effects of M-CSF on potential signaling pathways involving expression of the jun and fos early response genes.
+1712226:Taken together, the results indicate that M-CSF treatment is associated with differential activation of multiple members of the jun/fos family and that expression of these genes could contribute to nuclear signaling mechanisms that regulate a specific program of monocyte differentiation.
+1719551:These results demonstrate that the transcriptional activity of an AP-1-related protein is regulated by the cAMP-dependent second-messenger pathway and suggest that JunD and other AP-1-related proteins may play an important role in the regulation of gene expression by cAMP-dependent intracellular signaling pathways .
+1653056:In the present work, we investigated the molecular events leading to NF-kappa B activation by TNF alpha in a human T cell line (Jurkat) and its subclone JCT6, which presents a deficiency in the PKA transduction pathway .
+2127692:Therefore, two different negative regulatory pathways are involved in c-myc regulation: one which is independent and one which depends on de novo protein synthesis.
+2192264:Involvement of cyclic AMP-dependent protein kinases in the signal transduction pathway for interleukin-1.
+2192264:This inhibitor did not affect protein kinase C-mediated gene transcription, suggesting that cyclic AMP-dependent protein kinases are involved in the signal transduction pathway for IL-1 in a number of responsive cell types.
+2196387:This suggests a model in which functionally indistinguishable kappa B complexes can be activated via two separate pathways of signal transduction distinguishable by CsA.
+2109187:Based on these results, we propose that NTF and OTF2 interactions (both with their cognate DNA elements and possibly at the protein-protein level) may be critical to B-cell-specific expression and that these interactions provide additional pathways for regulating gene expression.
+2123553:Two distinct signal transmission pathways in T lymphocytes are inhibited by complexes formed between an immunophilin and either FK506 or rapamycin.
+1972889:While the HIV-2 and HIV-1 tat genes and T-cell activators apparently employ independent modes of action, the CMV transactivator in combination with the HIV-2 tat or T-cell activators may employ a gene activation pathway with some common and some distinct components.
+1670606:In an analysis of the molecular mechanism by which IL-2 message was generated, we showed that a fibronectin-VLA-5 fibronectin receptor interaction may contribute an independent signal distinct from the CD3 pathway of activation by the induction of an AP-1 transcriptional factor.
+1670606:Thus the VLA-5 fibronectin receptor on CD4 cells can play a complementary role in CD3-TCR-mediated signal transduction through its interaction with fibronectin.
+1964088:Consequently, one function of Tax in cells infected with HTLV-I might involve cell-type-specific suppression, as opposed to activation, of distinct signal pathways .
+1702384:However, cyclosporin A and FK506 did not inhibit Ca2+ mobilization dependent expression of c-fos mRNA indicating that only a subset of signalling pathways regulated by Ca2+ is sensitive to these drugs.
+2258623:In HIV-1, the sequences that respond to these signaling events are found in the long terminal repeat (LTR) and comprise the transcriptional enhancer, which contains two conserved binding sites for the nuclear factor kappa B (NF kappa B).
+9371260:Ras-related GTP-binding proteins and leukocyte signal transduction .
+7650486:The putative factors that couple the signal transduction from surface receptors to the activation of cytokine synthesis in natural killer (NK) cells have not been elucidated.
+7479924:In conclusion, our data suggest that SE can modulate IL-2R expression and signal transduction involving the Jak/Stat pathway in CD4+ T-cell lines.
+7489741:Moreover, the induction of both Jak 1 and 3, and STAT 5 activity strongly correlated with the growth-promoting effects of IL-7, suggesting that this signal transduction mechanism may play a key role in IL-7-induced proliferation.
+8707445:It has been shown to possess anti-inflammatory activity in a variety of animal models and more recently to inhibit IL-2 induced signal transduction .
+7637809:An IRF-1-dependent pathway of DNA damage-induced apoptosis in mitogen-activated T lymphocytes.
+7637809:The tumour suppressor p53 has been shown to regulate this type of apoptosis in thymocytes, but an as yet unknown, p53-independent pathway (s) appears to mediate the same event in mitogen-activated mature T lymphocytes.
+7637809:Thus two different anti-onco-genic transcription factors, p53 and IRF-1, are required for distinct apoptotic pathways in T lymphocytes.
+8566023:Activation through the Ca2+/calcineurin pathway is essential to the transcription of many cytokine genes.
+8580378:A number of cytokines and growth factors use the JAK-STAT pathway to signal from the cell membrane to the nucleus.
+8580378:We therefore propose that IL-2 receptor signal transduction does not depend on equimolar heterodimerization of JAK1 and JAK3 following IL-2-induced heterodimerization of IL-2R beta and IL-2R gamma.
+7481768:The lack of Jak3 expression correlated with impaired B cell signaling , as demonstrated by the inability of IL-4 to activate Stat6 in the EBV-transformed cell line from the patient. These observations indicate that the functions of gamma c are dependent on Jak3 and that Jak3 is essential for lymphoid development and signaling.
+7588326:PRL and IL-2 receptor activation are both linked to the Jak/Stat (signal transducer and activator of transcription) pathway .
+7486667:We are currently engaged in defining where the two signals integrate along the AP-1/NF-kappa B pathway .
+7591091:These findings indicate that infection of human mononuclear phagocytes with L. donovani leads to impaired gamma interferon-mediated tyrosine phosphorylation and selective effects on the Jak-Stat1 pathway .
+7594468:While PKC-dependent pathways sequentially result in the phosphorylation and in an incomplete degradation of IkB alpha in T cell lines, co-activation of Ca(2+)-dependent pathways accelerates the rate of IkB alpha phosphorylation and results in its complete degradation.
+7594468:Activation of Ca(2+)-dependent pathways alone do not result in the phosphorylation and/or degradation of IkB alpha in Jurkat T or in U937 cells.
+7594468:Treatment of T cells with the selective PKC inhibitor GF109203X abrogates the PMA-induced IkB alpha phosphorylation/degradation irrespective of activation of Ca(2+)-dependent pathways , but not the phosphorylation and degradation of IkB alpha induced by TNF-alpha, a PKC-independent stimulus.
+7594468:Contrary to the interaction with PKC, Ca(2+)-dependent pathways synergize with TNF-alpha not at the level of IkB alpha phosphorylation, but at the level of its degradation.
+7594468:These results indicate that Ca(2+)-dependent pathways , including the phosphatase calcineurin, participate in the regulation of NF-kappa B in a cell specific fashion and synergize with PKC-dependent and -independent pathways at the level of IkB alpha phosphorylation and degradation.
+7640301:We previously have demonstrated a requirement for oxidative events during cell cycle entry in T lymphocytes and have hypothesised that reactive oxygen species may act as intracellular signalling agents during lymphocyte activation.
+7640301:In the current study, cysteamine, an aminothiol compound with antioxidant activity, has been used to further investigate the role of oxidative signalling during lymphocyte activation.
+7640301:It therefore was of interest to establish which, if any, commitment events were affected by oxidative signalling during cell cycle entry.
+7640301:Interestingly, Oct1 and NF-AT DNA binding activity were not affected by cysteamine treatment, suggesting that oxidative signalling processes operate in a selective manner.
+7640301:The identification of regulatory proteins, such as transcription factors, as molecular targets for oxidative signalling provides further evidence to implicate oxidative signalling as being intimately involved in the G0 to G1 phase transition in T lymphocytes.
+7492771:Binding of plasma Factor VII/VIIa to the tissue factor (TF) receptor initiates the coagulation protease cascades .
+7594456:Activation of the signal transducer and transcription (STAT) signaling pathway in a primary T cell response.

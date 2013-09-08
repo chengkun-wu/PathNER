@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/gate.jar"/>
+	<classpathentry kind="lib" path="lib/secondstring-20120620.jar"/>
+	<classpathentry kind="lib" path="lib/Apache Commons/Collections/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/Apache Commons/IO/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/Apache Commons/Lang/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/BANNER/dragontool.jar"/>
+	<classpathentry kind="lib" path="lib/BANNER/heptag.jar"/>
+	<classpathentry kind="lib" path="lib/BANNER/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/BANNER/mallet.jar"/>
+	<classpathentry kind="lib" path="lib/BANNER/medpost.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/apache-mime4j-core.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/apache-mime4j-dom.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/bcmail-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/bcprov-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/commons-compress.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/commons-io.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/flying-saucer-core.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/fontbox.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/gate-asm.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/gate-compiler-jdt.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/ivy.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/java-getopt.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/jaxen.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/jempbox.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/lucene-core.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/metadata-extractor.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/nekohtml.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/pdfbox.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/poi-ooxml-schemas.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/poi-ooxml.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/poi-scratchpad.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/poi.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/spring-aop.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/spring-beans.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/spring-core.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/stax2-api.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/tika-core.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/tika-parsers.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/woodstox-core-lgpl.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/xmlbeans.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/xmlunit.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/xpp3.jar"/>
+	<classpathentry kind="lib" path="lib/GATE_lib/xstream.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

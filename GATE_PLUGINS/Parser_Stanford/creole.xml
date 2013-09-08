@@ -1,0 +1,5 @@
+<?xml version="1.0"?>  
+<CREOLE-DIRECTORY>  
+  <JAR SCAN="true">gate-stanford.jar</JAR>
+  <JAR>lib/stanford-parser.jar</JAR>
+</CREOLE-DIRECTORY> 
