@@ -8,9 +8,8 @@ You can use the code in your own pipeline or you can run the executable jar file
 
 If you use PathNER, please cite the following paper:
 
-Wu C, Schwartz JM, Nenadic G: PathNER: A tool for systematic
-identification of biological pathway mentions in the literature, BMC
-Systems Biology (InCoB 2013 Supplement), 2013
+Wu C, Schwartz JM, Nenadic G. PathNER: A tool for systematic
+identification of biological pathway mentions in the literature. BMC Systems Biology 2013, 7(Suppl 3):S2 (16 October 2013)
 
 
 If you have any problem with PathNER or you have suggestions and comments, please contact me via chengkun.wu@manchester.ac.uk.
