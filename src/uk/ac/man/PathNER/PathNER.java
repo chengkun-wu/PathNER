@@ -52,12 +52,12 @@ import banner.tagging.Mention;
  */
 public class PathNER {
 	public class MergedMatch{
-		long startOffset;
-		long endOffset;
-		String text;
-		String matchedStr;
-		String entry;
-		Double score; //To track the confidence
+		public long startOffset;
+		public long endOffset;
+		public String text;
+		public String matchedStr;
+		public String entry;
+		public Double score; //To track the confidence
 	}
 
 	public static boolean sentence_sep = true;
@@ -78,6 +78,7 @@ public class PathNER {
 	public static int tagComponentCount = 2; //Currently rule-based and soft dictionary
 	
 	public boolean writeGateDoc = false;
+	public boolean verbose = false;
 	
 	//To-Do
 	//private static File pluginsDir = Gate.getPluginsHome();
@@ -239,7 +240,9 @@ public class PathNER {
 		try {
 			Corpus c = Factory.newCorpus("temp");
 			c.add(doc);
-			System.out.println(doc.getName() + " being processed by OpenNLP");
+			
+			if(verbose)
+				System.out.println(doc.getName() + " being processed by OpenNLP");
 			
 			opennlpPipeline.setCorpus(c);
 			opennlpPipeline.execute();
@@ -373,7 +376,7 @@ public class PathNER {
 				segList.add(mSeg);
 			}
 			
-			if(++count%reportNumber == 0){
+			if(++count%reportNumber == 0 && verbose){
 				System.out.println(count + " sentences processed!");
 				//break;
 			}
@@ -609,15 +612,20 @@ public class PathNER {
 
 		this.tagWithOpenNLP(doc);
 			
-		System.out.println("Preprocessing");
+		if(verbose){
+			System.out.println("Preprocessing");
+			///Tagging with Rule-based component
+			System.out.println("Tagging with rule-based component");
+		}
 		
-		///Tagging with Rule-based component
-		System.out.println("Tagging with rule-based component");
+		
 		getMentionsByJapeRules(doc);
 		
 	
 		//Tagging with dictionary matching component
-		System.out.println("Tagging with dictionary matching component");
+		if(verbose)
+			System.out.println("Tagging with dictionary matching component");
+		
 		List<MatchSegment> mSegList = getMatchSegmentWithDictionaryMatching(doc);
 		
 		if (mSegList != null)
@@ -631,7 +639,8 @@ public class PathNER {
 			uk.ac.man.Utils.FileUtils.str2File(xmlStr, "gate_temp.xml");
 		}
 		
-		System.out.println("Finished tagging with PathNer!\n");
+		if(verbose)
+			System.out.println("Finished tagging with PathNer!\n");
 		
 		return doc;
 	}
@@ -816,18 +825,20 @@ public class PathNER {
 				mMatch.entry = entry;
 				mMatch.score = score;
 			
-				StringBuilder sb = new StringBuilder();
-				sb.append("[PathNer]: ").append("\t");
-				sb.append(mMatch.matchedStr).append("\t");
-				
-				if(entry != null)
-					sb.append(mMatch.entry);
-				else
-					sb.append("N/A");
-				
-				sb.append("\t").append(mMatch.score);
-				
-				System.out.println(sb.toString());
+				if(verbose){
+					StringBuilder sb = new StringBuilder();
+					sb.append("[PathNer]: ").append("\t");
+					sb.append(mMatch.matchedStr).append("\t");
+					
+					if(entry != null)
+						sb.append(mMatch.entry);
+					else
+						sb.append("N/A");
+					
+					sb.append("\t").append(mMatch.score);
+					
+					System.out.println(sb.toString());
+				}
 				
 				result.add(mMatch);
 			}
@@ -875,8 +886,10 @@ public class PathNER {
 		String goldTestFileName = ap.get("test");
 		boolean debug_flag = ap.getBoolean("debug", false);
 		
-		if(debug_flag)
+		if(debug_flag){
 			pathNER.writeGateDoc = true;
+			pathNER.verbose = true;
+		}
 
 		if(goldTestFileName != null){
 			
