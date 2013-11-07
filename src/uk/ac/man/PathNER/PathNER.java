@@ -852,6 +852,49 @@ public class PathNER {
 		Factory.deleteResource(doc);
 	}
 	
+	public List<MergedMatch> testOnPubmedArticle(Article article){
+		String text = "";
+		text += article.text_title;
+		text += article.text_abstract;
+		
+		Document doc = this.hybridDetectionOnTextStr(text, article.id_ext, "");
+		
+		AnnotationSet as = doc.getAnnotations("pw").get("pwmention");
+		List<MergedMatch> result = new ArrayList<MergedMatch>();
+		
+		for(Annotation annt : as){
+			FeatureMap features = annt.getFeatures();
+
+			String method = (String) features.get("method");
+			String string = (String) features.get("string");
+			String entry = (String) features.get("entry");
+			
+			if(method.equals("merge")){
+				MergedMatch mMatch = new MergedMatch();
+				mMatch.startOffset = annt.getStartNode().getOffset();
+				mMatch.endOffset = annt.getEndNode().getOffset();
+				mMatch.text = (String) doc.getFeatures().get(GateConstants.ORIGINAL_DOCUMENT_CONTENT_FEATURE_NAME);
+				mMatch.matchedStr = gate.Utils.stringFor(doc, mMatch.startOffset, mMatch.endOffset);
+				mMatch.entry = entry;
+			
+				StringBuilder sb = new StringBuilder();
+				sb.append("[PathNer]: ").append("\t");
+				sb.append(mMatch.matchedStr).append("\t");
+				
+				if(entry != null)
+					sb.append(mMatch.entry);
+				else
+					sb.append("N/A");
+				
+				System.out.println(sb.toString());
+				
+				result.add(mMatch);
+			}
+		}
+		
+		return result;
+	}
+	
 	public List<MergedMatch> testOnTextStr(String textStr){
 		Document doc = this.hybridDetectionOnTextStr(textStr, "textstr_test_doc", "");
 		
