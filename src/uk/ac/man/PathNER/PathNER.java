@@ -57,6 +57,7 @@ public class PathNER {
 		String text;
 		String matchedStr;
 		String entry;
+		Double score; //To track the confidence
 	}
 
 	public static boolean sentence_sep = true;
@@ -499,6 +500,9 @@ public class PathNER {
 			String method = (String) annt.getFeatures().get("method");
 			long start = annt.getStartNode().getOffset();
 			long end = annt.getEndNode().getOffset();
+			Double score  = (Double) annt.getFeatures().get("score");
+			if(score == null)
+				score = 0.8;
 
 			int index = 0;
 
@@ -517,14 +521,16 @@ public class PathNER {
 				fm.put("specific", "true");
 				fm.put("method", "merge");
 				fm.put("submethod", method);
-
 				fm.put("string", gate.Utils.stringFor(doc, start, end));
+				fm.put("score", score);
 
 				if (!method.equals("rules")) {
 					String entry = (String) annt.getFeatures().get("entry");
+					
 					fm.put("entry", entry);
+					
 				}
-
+					
 				try {
 					pwAS.add(start, end, "pwmention", fm);
 				} catch (InvalidOffsetException e) {
@@ -539,6 +545,10 @@ public class PathNER {
 			String method = (String) annt.getFeatures().get("method");
 			long minStart = annt.getStartNode().getOffset();
 			long maxEnd = annt.getEndNode().getOffset();
+			
+			Double score  = (Double) annt.getFeatures().get("score");
+			if(score == null)
+				score = 0.8;
 
 			if (method.equals("rules")) {
 				continue;
@@ -564,7 +574,9 @@ public class PathNER {
 			fm.put("submethod", method);
 
 			String entry = (String) annt.getFeatures().get("entry");
+			
 			fm.put("entry", entry);
+			fm.put("score", score);
 
 			fm.put("string", gate.Utils.stringFor(doc, minStart, maxEnd));
 
@@ -782,14 +794,9 @@ public class PathNER {
 		Factory.deleteResource(doc);
 	}
 	
-	public List<MergedMatch> testOnPubmedArticle(Article article){
-		String text = "";
-		text += article.text_title;
-		text += article.text_abstract;
-		
-		Document doc = this.hybridDetectionOnTextStr(text, article.id_ext, "");
-		
+	public List<MergedMatch> getMatchResultsFromAnnotations(Document doc){
 		AnnotationSet as = doc.getAnnotations("pw").get("pwmention");
+		
 		List<MergedMatch> result = new ArrayList<MergedMatch>();
 		
 		for(Annotation annt : as){
@@ -798,6 +805,7 @@ public class PathNER {
 			String method = (String) features.get("method");
 			String string = (String) features.get("string");
 			String entry = (String) features.get("entry");
+			Double score = (Double) features.get("score");
 			
 			if(method.equals("merge")){
 				MergedMatch mMatch = new MergedMatch();
@@ -806,6 +814,7 @@ public class PathNER {
 				mMatch.text = (String) doc.getFeatures().get(GateConstants.ORIGINAL_DOCUMENT_CONTENT_FEATURE_NAME);
 				mMatch.matchedStr = gate.Utils.stringFor(doc, mMatch.startOffset, mMatch.endOffset);
 				mMatch.entry = entry;
+				mMatch.score = score;
 			
 				StringBuilder sb = new StringBuilder();
 				sb.append("[PathNer]: ").append("\t");
@@ -815,6 +824,8 @@ public class PathNER {
 					sb.append(mMatch.entry);
 				else
 					sb.append("N/A");
+				
+				sb.append("\t").append(mMatch.score);
 				
 				System.out.println(sb.toString());
 				
@@ -825,43 +836,20 @@ public class PathNER {
 		return result;
 	}
 	
+	public List<MergedMatch> testOnPubmedArticle(Article article){
+		String text = "";
+		text += article.text_title;
+		text += article.text_abstract;
+		
+		Document doc = this.hybridDetectionOnTextStr(text, article.id_ext, "");
+		
+		return getMatchResultsFromAnnotations(doc);
+	}
+	
 	public List<MergedMatch> testOnTextStr(String textStr){
 		Document doc = this.hybridDetectionOnTextStr(textStr, "textstr_test_doc", "");
-		
-		AnnotationSet as = doc.getAnnotations("pw").get("pwmention");
-		List<MergedMatch> result = new ArrayList<MergedMatch>();
-		
-		for(Annotation annt : as){
-			FeatureMap features = annt.getFeatures();
 
-			String method = (String) features.get("method");
-			String string = (String) features.get("string");
-			String entry = (String) features.get("entry");
-			
-			if(method.equals("merge")){
-				MergedMatch mMatch = new MergedMatch();
-				mMatch.startOffset = annt.getStartNode().getOffset();
-				mMatch.endOffset = annt.getEndNode().getOffset();
-				mMatch.text = (String) doc.getFeatures().get(GateConstants.ORIGINAL_DOCUMENT_CONTENT_FEATURE_NAME);
-				mMatch.matchedStr = gate.Utils.stringFor(doc, mMatch.startOffset, mMatch.endOffset);
-				mMatch.entry = entry;
-			
-				StringBuilder sb = new StringBuilder();
-				sb.append("[PathNer]: ").append("\t");
-				sb.append(mMatch.matchedStr).append("\t");
-				
-				if(entry != null)
-					sb.append(mMatch.entry);
-				else
-					sb.append("N/A");
-				
-				System.out.println(sb.toString());
-				
-				result.add(mMatch);
-			}
-		}
-		
-		return result;
+		return getMatchResultsFromAnnotations(doc);
 	}
 	
 	public List<MergedMatch> testOnFile(String fileName, String ... outPath){
@@ -873,45 +861,7 @@ public class PathNER {
 		
 		Document doc = this.hybridDetectionOnTxt(fileName, outFile);
 		
-		AnnotationSet as = doc.getAnnotations("pw").get("pwmention");
-		List<MergedMatch> result = new ArrayList<MergedMatch>();
-		List<String> printList = new ArrayList<String>();
-		
-		for(Annotation annt : as){
-			FeatureMap features = annt.getFeatures();
-
-			String method = (String) features.get("method");
-			String string = (String) features.get("string");
-			String entry = (String) features.get("entry");
-			
-			if(method.equals("merge")){
-				MergedMatch mMatch = new MergedMatch();
-				mMatch.startOffset = annt.getStartNode().getOffset();
-				mMatch.endOffset = annt.getEndNode().getOffset();
-				mMatch.text = (String) doc.getFeatures().get(GateConstants.ORIGINAL_DOCUMENT_CONTENT_FEATURE_NAME);
-				mMatch.matchedStr = gate.Utils.stringFor(doc, mMatch.startOffset, mMatch.endOffset);
-				mMatch.entry = entry;
-			
-				StringBuilder sb = new StringBuilder();
-				sb.append("[PathNer]: ").append("\t");
-				sb.append(mMatch.matchedStr).append("\t");
-				
-				if(entry != null)
-					sb.append(mMatch.entry);
-				else
-					sb.append("N/A");
-				
-				System.out.println(sb.toString());
-				
-				printList.add(sb.toString());
-				result.add(mMatch);
-			}
-		}
-		
-		if(!outFile.equals(""))
-			uk.ac.man.Utils.FileUtils.strList2File(printList, outFile);
-		
-		return result;
+		return getMatchResultsFromAnnotations(doc);
 	}
 	
 	public static void main(String[] args) throws Exception{
