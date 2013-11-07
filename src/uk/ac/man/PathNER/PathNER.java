@@ -480,43 +480,48 @@ public class PathNER {
 			return;
 		}
 
+		AnnotationSet[] asArray = new AnnotationSet[tagComponentCount];
+		asArray[0] = doc.getAnnotations("pw").get("rbmention");
+		asArray[1] = doc.getAnnotations("pw").get("sdmmention");
+
 		List<Annotation> rbAS = new ArrayList<Annotation>();
 		List<Annotation> dmAS = new ArrayList<Annotation>();
 
-		AnnotationSet as = doc.getAnnotations("pw").get("pwmention");
+		rbAS.addAll(asArray[0]);
+		dmAS.addAll(asArray[1]);
+
 		AnnotationSet pwAS = doc.getAnnotations("pw");
+		List<Annotation> pwAL = new ArrayList<Annotation>(pwAS);
+		List<Annotation> aloneAL = new ArrayList<Annotation>();
+		List<Annotation> olAL = new ArrayList<Annotation>();
 
-		for (Annotation annt : pwAS) {
-			FeatureMap features = annt.getFeatures();
+		for (Annotation annt : pwAL) {
+			String method = (String) annt.getFeatures().get("method");
+			long start = annt.getStartNode().getOffset();
+			long end = annt.getEndNode().getOffset();
 
-			String method = (String) features.get("method");
+			int index = 0;
 
-			if (method.equals("sdm")) {
-				dmAS.add(annt);
-			}
 			if (method.equals("rules")) {
-				rbAS.add(annt);
+				index = 1;
 			}
-		}
 
-		if (dmAS.size() == 0 || rbAS.size() == 0) {
-			Collection<Annotation> unionAS = CollectionUtils.union(dmAS, rbAS);
-			String submethod = "sdm";
-			if (dmAS.size() == 0)
-				submethod = "rules";
+			AnnotationSet olAS = gate.Utils.getOverlappingAnnotations(
+					asArray[index], annt);
 
-			for (Annotation rbAnnt : unionAS) {
+			if (olAS == null || olAS.size() == 0) {
+				aloneAL.add(annt);
+
 				FeatureMap fm = Factory.newFeatureMap();
-				long start = rbAnnt.getStartNode().getOffset();
-				long end = rbAnnt.getEndNode().getOffset();
 				fm.put("pwmention", "true");
 				fm.put("specific", "true");
 				fm.put("method", "merge");
-				fm.put("string", gate.Utils.stringFor(doc, start, end));
-				fm.put("submethod", submethod);
+				fm.put("submethod", method);
 
-				if (submethod.equals("sdm")) {
-					String entry = (String) rbAnnt.getFeatures().get("entry");
+				fm.put("string", gate.Utils.stringFor(doc, start, end));
+
+				if (!method.equals("rules")) {
+					String entry = (String) annt.getFeatures().get("entry");
 					fm.put("entry", entry);
 				}
 
@@ -525,138 +530,63 @@ public class PathNER {
 				} catch (InvalidOffsetException e) {
 					throw new LuckyException(e);
 				}
-			}
 
-			return;
+			} else
+				olAL.add(annt);
 		}
 
-		Collections.sort(rbAS, gate.Utils.OFFSET_COMPARATOR);
-		Collections.sort(dmAS, gate.Utils.OFFSET_COMPARATOR);
+		for (Annotation annt : olAL) {
+			String method = (String) annt.getFeatures().get("method");
+			long minStart = annt.getStartNode().getOffset();
+			long maxEnd = annt.getEndNode().getOffset();
 
-		int rbI = 0, dmI = 0;
-		int rbOnly = 0, dmOnly = 0;
-		int overLapped = 0;
-		long lastStart = -1, lastEnd = -1;
-
-		do {
-			long rbStart = rbAS.get(rbI).getStartNode().getOffset();
-			long rbEnd = rbAS.get(rbI).getEndNode().getOffset();
-
-			long dmStart = dmAS.get(dmI).getStartNode().getOffset();
-			long dmEnd = dmAS.get(dmI).getEndNode().getOffset();
-			Annotation dmAnnt = dmAS.get(dmI);
-
-			if (rbStart >= dmEnd) {
-				dmI++;
-				dmOnly++;
-
-				// Add the dm annotation to the merge annotation;
-				FeatureMap fm = Factory.newFeatureMap();
-				fm.put("pwmention", "true");
-				fm.put("specific", "true");
-				fm.put("method", "merge");
-				fm.put("string", gate.Utils.stringFor(doc, dmStart, dmEnd));
-				fm.put("submethod", "sdm");
-
-				String entry = (String) dmAnnt.getFeatures().get("entry");
-				fm.put("entry", entry);
-
-				try {
-					pwAS.add(dmStart, dmEnd, "pwmention", fm);
-				} catch (InvalidOffsetException e) {
-					throw new LuckyException(e);
-				}
-
-				lastStart = dmStart;
-				lastEnd = dmEnd;
-
+			if (method.equals("rules")) {
 				continue;
 			}
 
-			if (dmStart >= rbEnd) {
-				rbI++;
-				rbOnly++;
+			AnnotationSet olAS = gate.Utils.getOverlappingAnnotations(
+					asArray[0], annt);
 
-				// Add the dm annotation to the merge annotation;
-				FeatureMap fm = Factory.newFeatureMap();
-				fm.put("pwmention", "true");
-				fm.put("specific", "true");
-				fm.put("method", "merge");
-				fm.put("string", gate.Utils.stringFor(doc, rbStart, rbEnd));
-				fm.put("submethod", "rules");
+			for (Annotation olAnnt : olAS) {
+				long start = olAnnt.getStartNode().getOffset();
+				long end = olAnnt.getEndNode().getOffset();
 
-				try {
-					pwAS.add(rbStart, rbEnd, "pwmention", fm);
-				} catch (InvalidOffsetException e) {
-					throw new LuckyException(e);
-				}
-
-				lastStart = rbStart;
-				lastEnd = rbEnd;
-
-				continue;
+				if (start < minStart)
+					minStart = start;
+				if (end > maxEnd)
+					maxEnd = end;
 			}
 
-			String rbStr = gate.Utils.stringFor(doc, rbStart, rbEnd);
-			String dmStr = gate.Utils.stringFor(doc, dmStart, dmEnd);
+			FeatureMap fm = Factory.newFeatureMap();
+			fm.put("pwmention", "true");
+			fm.put("specific", "true");
+			fm.put("method", "merge");
+			fm.put("submethod", method);
 
-			long newStart = (rbStart < dmStart) ? rbStart : dmStart;
-			long newEnd = (rbEnd > dmEnd) ? rbEnd : dmEnd;
+			String entry = (String) annt.getFeatures().get("entry");
+			fm.put("entry", entry);
 
-			if (rbStart < dmEnd) {
-				rbI++;
+			fm.put("string", gate.Utils.stringFor(doc, minStart, maxEnd));
+
+			try {
+				pwAS.add(minStart, maxEnd, "pwmention", fm);
+			} catch (InvalidOffsetException e) {
+				throw new LuckyException(e);
 			}
-
-			if (dmStart < rbEnd) {
-				dmI++;
-			}
-
-			if (lastStart < 0 || lastEnd < 0) {
-				lastStart = newStart;
-				lastEnd = newEnd;
-			} else {
-
-				if (newStart >= lastEnd) {
-					FeatureMap fm = Factory.newFeatureMap();
-					fm.put("pwmention", "true");
-					fm.put("specific", "true");
-					fm.put("method", "merge");
-					fm.put("string",
-							gate.Utils.stringFor(doc, newStart, newEnd));
-					fm.put("submethod", "hybrid");
-
-					String entry = (String) dmAnnt.getFeatures().get("entry");
-					fm.put("entry", entry);
-
-					try {
-						pwAS.add(rbStart, rbEnd, "pwmention", fm);
-					} catch (InvalidOffsetException e) {
-						throw new LuckyException(e);
-					}
-
-					lastStart = newStart;
-					lastEnd = newEnd;
-				} else {
-					lastEnd = newEnd;
-				}
-			}
-
-			overLapped++;
-
-		} while (rbI < rbAS.size() && dmI < dmAS.size());
+		}
 
 		// After merge, the original set should be removed;
-		// pwAS = doc.getAnnotations("pw").get("pwmention");
-		as = doc.getAnnotations("pw");
-		List<Annotation> anntList = new ArrayList<Annotation>(as);
+		// The merged annotations will be named as "pwmention"
+		List<Annotation> anntList = new ArrayList<Annotation>(
+				doc.getAnnotations("pw"));
 
 		for (Annotation annt : anntList) {
 			FeatureMap features = annt.getFeatures();
 
 			String method = (String) features.get("method");
 
-			if (method.equals("sdm") || method.equals("rules"))
-				as.remove(annt);
+			if (!method.equals("merge"))
+				pwAS.remove(annt);
 		}
 	}
 	
