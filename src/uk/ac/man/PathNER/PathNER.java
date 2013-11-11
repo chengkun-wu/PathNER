@@ -27,7 +27,6 @@ import gate.util.LuckyException;
 import java.io.File;
 import java.net.MalformedURLException;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -36,8 +35,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import org.apache.commons.collections.CollectionUtils;
 
 import uk.ac.man.PathNER.SoftDictionaryMatcher.MatchResult;
 import uk.ac.man.PathNER.SoftDictionaryMatcher.MatchSegment;
@@ -854,13 +851,19 @@ public class PathNER {
 		
 		Document doc = this.hybridDetectionOnTextStr(text, article.id_ext, "");
 		
-		return getMatchResultsFromAnnotations(doc);
+		List<MergedMatch> result = getMatchResultsFromAnnotations(doc);
+		gate.Factory.deleteResource(doc);
+		
+		return result;
 	}
 	
 	public List<MergedMatch> testOnTextStr(String textStr){
 		Document doc = this.hybridDetectionOnTextStr(textStr, "textstr_test_doc", "");
 
-		return getMatchResultsFromAnnotations(doc);
+		List<MergedMatch> result = getMatchResultsFromAnnotations(doc);
+		gate.Factory.deleteResource(doc);
+		
+		return result;
 	}
 	
 	public List<MergedMatch> testOnFile(String fileName, String ... outPath){
@@ -872,7 +875,10 @@ public class PathNER {
 		
 		Document doc = this.hybridDetectionOnTxt(fileName, outFile);
 		
-		return getMatchResultsFromAnnotations(doc);
+		List<MergedMatch> result = getMatchResultsFromAnnotations(doc);
+		gate.Factory.deleteResource(doc);
+		
+		return result;
 	}
 	
 	public static void main(String[] args) throws Exception{
