@@ -43,6 +43,9 @@ import uk.ac.man.Utils.ArgParser;
 import uk.ac.man.Utils.DocGeneFilter;
 import banner.tagging.Mention;
 
+/*
+ * Future plans: Normalisation on detected mentions
+ */
 
 /*
  * Author: Chengkun Wu
