@@ -884,6 +884,35 @@ public class PathNER {
 		return result;
 	}
 	
+	public void printResults(List<MergedMatch> results, String ... outPath){
+		List<String> resStrList = new ArrayList<String>();
+		
+		for(MergedMatch mMatch : results){
+			StringBuilder sb = new StringBuilder();
+			sb.append("[PathNer]: ").append("\t");
+			sb.append(mMatch.matchedStr).append("\t");
+			
+			if(mMatch.entry != null)
+				sb.append(mMatch.entry);
+			else
+				sb.append("N/A");
+			
+			sb.append("\t").append(mMatch.score);
+			
+			//System.out.println(sb.toString());
+			resStrList.add(sb.toString());
+		}
+		
+		if (outPath.length > 0){
+			//Write to file
+			uk.ac.man.Utils.FileUtils.strList2File(resStrList, outPath[0]);
+		}else{
+			for(String outStr: resStrList){
+				System.out.println(outStr);
+			}
+		}
+	}
+	
 	public static void main(String[] args) throws Exception{
 		
 		PathNER pathNER = new PathNER();
@@ -893,6 +922,7 @@ public class PathNER {
 		ArgParser ap = new ArgParser(args);
 		pathNER.reportNumber = ap.getInt("report", 5);
 		String goldTestFileName = ap.get("test");
+		String outputFileName = ap.get("output");
 		boolean debug_flag = ap.getBoolean("debug", false);
 		
 		if(debug_flag){
@@ -920,14 +950,17 @@ public class PathNER {
 				else
 					inFile = goldTestFileName;
 				
-				String outFile = "file_test_result.txt";
-				List<MergedMatch> result = pathNER.testOnFile(inFile, outFile);
+				if (outputFileName == null)
+					outputFileName = "./file_test_result.txt";
+				List<MergedMatch> result = pathNER.testOnFile(inFile, outputFileName);
 				
 				System.out.println(result.size() + " mentions found!");
+				pathNER.printResults(result, outputFileName);
 				
 				System.out.println("\n\n***********************************");
 				System.out.println("PathNer text file test completed!");
 				System.out.println("***********************************\n\n\n");
+				System.out.println("Results written to " + outputFileName);
 			}
 			
 		}else{
@@ -936,10 +969,12 @@ public class PathNER {
 			System.out.println("Testing PathNer on a text string");
 			System.out.println("***********************************\n\n\n");
 			
-			String testText = "Delineation of the CD28 signaling cascade was found to involve protein tyrosine kinase activity, followed by the activation of phospholipase A2 and 5-lipoxygenase.";
+			String testText = "the PI3K/Akt/mTOR cascade, signaling through PI3K/Akt/mTOR, the mTOR/S6R branch of the PI3K/Akt signaling pathway";
 			List<MergedMatch> result = pathNER.testOnTextStr(testText);
 			
 			System.out.println(result.size() + " mentions found!");
+			
+			pathNER.printResults(result);
 			
 			System.out.println("\n\n***********************************");
 			System.out.println("Text string test completed!");
