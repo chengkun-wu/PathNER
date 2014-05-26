@@ -899,7 +899,7 @@ public class PathNER {
 			
 			sb.append("\t").append(mMatch.score);
 			
-			//System.out.println(sb.toString());
+			System.out.println(sb.toString());
 			resStrList.add(sb.toString());
 		}
 		
