@@ -29,6 +29,9 @@ Examples:
    java -jar PathNer.jar --test test
 4. See the results on your file
    java -jar PathNer.jar --test YOUR_FILE
+5. Save results to an output file:
+   java -jar PathNer.jar --test TEST_FILE --output RESULT_FILE
+   Note: If an output file is not specified, the results will be written to the "file_test_result.txt" file under the same folder as PathNer.jar.
 
 If you want to process a large file, you might need to add Java Virtual Machine parameters. For instance, 
 
