@@ -563,6 +563,9 @@ public class SoftDictionaryMatcher {
 			if(mRes.score < softThresholdHigh)
 				checkRes = false;
 			
+			mSeg.segStr = mSeg.segStr.trim();
+			mRes.entryName = mRes.entryName.trim();
+			
 			//If the entry is a single word, then the mention must match perfectly
 			if(!mRes.entryName.contains(" ")){
 				if(!mSeg.segStr.equalsIgnoreCase(mRes.entryName))
