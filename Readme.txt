@@ -36,3 +36,13 @@ Examples:
 If you want to process a large file, you might need to add Java Virtual Machine parameters. For instance, 
 
 java -Xmx4G -jar PathNer.jar --test YOUR_FILE
+
+=====Note: ============================================
+An update to Java version 1.8 might cause some GATE related compilation errors.
+To get away with this, please specify an older version of Java by doing:
+
+java -version:1.7 -Xmx1024M -jar PathNer.jar --test
+
+(Thanks to Dr. Irena Spasic from the Cardiff University for reporting this and the suggestion of the solution). 
+
+
